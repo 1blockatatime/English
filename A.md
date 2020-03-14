@@ -16,7 +16,7 @@ Level 1 English
 </p>
 </h2>
 
-#### [Topic 1 - Greetings](https://1blockatatime.github.io/English/Greetings_A)  [![gtsym](/images/gtsym.PNG){:height="30px" width="30px"}]
+#### [Topic 1 - Greetings](https://1blockatatime.github.io/English/Greetings_A) [![gtsym](/images/gtsym.PNG){:height="30px" width="30px"}](https://1blockatatime.github.io/English/Greetings_A)
 #### [Topic 2 - Colours](https://1blockatatime.github.io/English/Colours_A) [![colmix](/images/colmix.png){:height="30px" width="30px"}](https://1blockatatime.github.io/English/Colours_A)
 #### [Topic 3 - Numbers 1-10](https://1blockatatime.github.io/English/Number_A) [![pmno](/images/pmno.PNG){:height="30px"}](https://1blockatatime.github.io/English/Number_A)
 #### [Topic 4 - Weather](https://1blockatatime.github.io/English/Weather_A) [![wsym](/images/wsym.PNG){:height="30px"}](https://1blockatatime.github.io/English/Weather_A)
@@ -35,7 +35,7 @@ Level 1 English
 -->
 
 ***
-[![home](/images/home.png)](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
+[![home](/images/home.png){:height="25px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
 
 ***
 #### Notes
