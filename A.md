@@ -10,7 +10,6 @@
 </script>
 </head>
 
-
 <!-- <h1> 
 <p align="center">
 Level 1 English
@@ -37,7 +36,6 @@ Level 1 English
 ### [Topic 10 - Prepositions of Place](https://1blockatatime.github.io/English/Prep_Place_A) [![prep](/images/prep.png){:height="30px"}](https://1blockatatime.github.io/English/Prep_Place_A)
 -->
 
-***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
 
 ***
