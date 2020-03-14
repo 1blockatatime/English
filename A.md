@@ -5,19 +5,15 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-110947112-3');
 </script>
 </head>
-
 <!-- <h1> 
 <p align="center">
 Level 1 English
 </p>
-</h1> -->
-
-<!-- # Level 1 English -->
-
+</h1>
+# Level 1 English -->
 ## [Topic 1 - Greetings](https://1blockatatime.github.io/English/Greetings_A) [![gtsym](/images/gtsym.PNG){:height="40px"}](https://1blockatatime.github.io/English/Greetings_A) ![l1](/images/l1.PNG){:height="25px"}  
 ## [Topic 2 - Colours](https://1blockatatime.github.io/English/Colours_A) [![colmix](/images/colmix.png){:height="40px" width="40px"}](https://1blockatatime.github.io/English/Colours_A)
 ## [Topic 3 - Numbers 1-10](https://1blockatatime.github.io/English/Number_A) [![numb2](/images/numb2.PNG){:height="40px"}](https://1blockatatime.github.io/English/Number_A)
