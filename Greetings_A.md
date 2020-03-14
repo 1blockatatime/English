@@ -2,7 +2,7 @@
 
 [![wyn](/images/wyn1.png){:height="60px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name? - Maple Leaf Learning](https://www.youtube.com/watch?v=Uv1JkBL5728)  
 
-***Question:*** **'Hello. What's your name?'(Comment t'appelle tu?; Comment vous appelez-vous?; Quel est ton nom?)**  
+***Question:*** **'What's your name?'(Comment t'appelle tu/vous appelez-vous?; Quel est ton nom?)**  
 ***Answer:*** **'My name is…' (Je m'appelle...)**  
 
 [![ntmy](/images/ntmy.PNG){:height="60px"}](https://www.youtube.com/watch?v=rSwypHirUkM) [Nice to meet you. - Freddiesville](https://www.youtube.com/watch?v=rSwypHirUkM)  
