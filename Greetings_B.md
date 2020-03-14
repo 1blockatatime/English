@@ -1,28 +1,24 @@
 ### Greetings  
 
-***Greetings*** **Good morning; Good afternoon; Hello; Hi**  
+[![wyn](/images/wyn1.png){:height="60px"}](https://www.youtube.com/watch?v=Uv1JkBL5728)[Hello hello, what’s your name? - Maple Leaf Learning](https://www.youtube.com/watch?v=Uv1JkBL5728)  
 
-***Question:*** **'What's your name?'('Qual é o teu nome?' -> Como é que te chamas?)**  
-***Answer:*** **'My name is…' ('O meu nome é...' -> Chamo-me...)**  
+***Question:*** **'Hello. What's your name?'(Comment t'appelle tu?; Comment vous appelez-vous?; Quel est ton nom?)**  
+***Answer:*** **'My name is…' (Je m'appelle...)**  
 
-[![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)[Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) 
+[![ntmy](/images/ntmy.PNG){:height="60px"}](https://www.youtube.com/watch?v=rSwypHirUkM)[Nice to meet you. - Freddiesville](https://www.youtube.com/watch?v=rSwypHirUkM)  
 
-***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (É um prazer conhecer-te./Igualmente.)**  
+***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (Enchanté(e)/Enchanté(e) aussi.)**  
 
-[![ntmy](/images/ntmy.PNG)](https://www.youtube.com/watch?v=rSwypHirUkM)[Freddiesville - Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM)
+[![grsmfv](/images/grsmfv.PNG){:height="60px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Écoute et mets les mots dans le bon ordre. - Freddiesville](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
 
-* Queres um desafio? [![grsmfv](/images/grsmfv.PNG){:height="60px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Ouve e tenta arrastar as palavras para construir a frase.](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
+NB: Cette activité semble fonctionner mieux en utilisant Internet explorer  
 
-NB: Esta actividade parece só funcionar com Internet Explorer  
+[![gae1](/images/gae1.PNG){:height="60px"}](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (What's your name?/How are you?)
 
-***Question:*** **'How are you?' (Como é que estás?)**  
-***Answer:*** **'I’m fine, thank you.' (Estou bem, obrigada.)**
-
-[![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8) [How are you?/Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
-
-[![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (What's your name?/How are you?)
+***Question:*** **'How are you?' (Comment ça va?)**  
+***Answer:*** **'I’m fine, thank you.' (Ça va bien, merci.)**
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)  
+[![home](/images/home.PNG){:height="25px"}](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)  
 
 ***
