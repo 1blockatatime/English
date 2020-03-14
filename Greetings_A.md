@@ -15,6 +15,6 @@
 ***Answer:*** **'I’m fine, thank you.' (Ça va bien, merci.)**
 
 ***
-[![home](/images/home.png){:height="25px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)  
+[![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)  
 
 ***
