@@ -16,12 +16,6 @@ Level 1 English
 </p>
 </h2>
 
-<h3> 
-<p align="center">
-Topics
-</p>
-</h3>
-
 #### [Topic 1 - Greetings](https://1blockatatime.github.io/English/Greetings_A)  [![gtsym](/images/gtsym.PNG){:height="30px" width="30px"}]
 #### [Topic 2 - Colours](https://1blockatatime.github.io/English/Colours_A) [![colmix](/images/colmix.png){:height="30px" width="30px"}](https://1blockatatime.github.io/English/Colours_A)
 #### [Topic 3 - Numbers 1-10](https://1blockatatime.github.io/English/Number_A) [![pmno](/images/pmno.PNG){:height="30px"}](https://1blockatatime.github.io/English/Number_A)
