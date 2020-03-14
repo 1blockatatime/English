@@ -1,0 +1,53 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110947112-3');
+</script>
+</head>
+
+<h2> 
+<p align="center">
+Level 1 English
+</p>
+</h2>
+
+<h3> 
+<p align="center">
+Topics
+</p>
+</h3>
+
+#### [Topic 1 - Greetings](https://1blockatatime.github.io/English/Greetings_A)
+#### [Topic 2 - Colours](https://1blockatatime.github.io/English/Colours_A) [![colmix](/images/colmix.png){:height="30px" width="30px"}](https://1blockatatime.github.io/English/Colours_A)
+#### [Topic 3 - Numbers 1-10](https://1blockatatime.github.io/English/Number_A) [![pmno](/images/pmno.PNG){:height="30px"}](https://1blockatatime.github.io/English/Number_A)
+#### [Topic 4 - Weather](https://1blockatatime.github.io/English/Weather_A) [![wsym](/images/wsym.PNG){:height="30px"}](https://1blockatatime.github.io/English/Weather_A)
+#### [Topic 5 - Body parts](https://1blockatatime.github.io/English/Body_Parts_A) [![body](/images/body.PNG){:height="30px"}](https://1blockatatime.github.io/English/Body_Parts_A)
+#### [Topic 6 - Family](https://1blockatatime.github.io/English/Family_A) [![elffm1](/images/elffm1.png){:height="30px"}](https://1blockatatime.github.io/English/Family_A)
+#### [Topic 7 - Animals](https://1blockatatime.github.io/English/Animals_A)[![anim](/images/anim.PNG){:height="30px"}](https://1blockatatime.github.io/English/Animals_A)
+#### [Topic 8 - Toys](https://1blockatatime.github.io/English/Toys_A) [![toys](/images/toys.PNG){:height="30px"}](https://1blockatatime.github.io/English/Toys_A)
+#### [Topic 9 - Classroom objects](https://1blockatatime.github.io/English/Classroom_Objects_A) [![classo](/images/classo.png){:height="30px"}](https://1blockatatime.github.io/English/Classroom_Objects_A)
+
+<!--
+#### [Topic 5 - Actions](https://1blockatatime.github.io/English/Actions_A) [![stand](/images/stand.png){:height="30px"}](https://1blockatatime.github.io/English/Actions_A)
+#### [Topic 13 - Food](https://1blockatatime.github.io/English/Food_A)
+#### [Topic 12 - Shapes](https://1blockatatime.github.io/English/Shapes_A) [![shape](/images/shape.PNG){:height="30px"}](https://1blockatatime.github.io/English/Shapes_A)
+### [Topic 11 - Feelings/needs](https://1blockatatime.github.io/English/Feelings_A) [![prep](/images/hoyt.png){:height="30px"}](https://1blockatatime.github.io/English/Feelings_A)
+### [Topic 10 - Prepositions of Place](https://1blockatatime.github.io/English/Prep_Place_A) [![prep](/images/prep.png){:height="30px"}](https://1blockatatime.github.io/English/Prep_Place_A)
+-->
+
+***
+[![home](/images/home.PNG)](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
+
+***
+#### Notes
+* Any activity that is too difficult or leads to frustration should be discontinued immediately.
+* Ensure the sound is switched on. Many activities have a voiceover, a listening comprehension component or a button with a picture of a speaker that enables the user to hear the correct pronunciation for the word or the sentence. ![spkr2](/images/spkr2.PNG)
+* Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer.
+* Some resources seem only to work with Internet Explorer so if an activity doesn't load in your habitual browser try Internet Explorer.
+* Some resources require the browser to launch a recent version of Adobe Flash Player as a plug-in.
+* Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language.
