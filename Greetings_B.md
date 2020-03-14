@@ -1,11 +1,11 @@
 ### Greetings  
 
-[![wyn](/images/wyn1.png){:height="60px"}](https://www.youtube.com/watch?v=Uv1JkBL5728)[Hello hello, what’s your name? - Maple Leaf Learning](https://www.youtube.com/watch?v=Uv1JkBL5728)  
+[![wyn](/images/wyn1.png){:height="60px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name? - Maple Leaf Learning](https://www.youtube.com/watch?v=Uv1JkBL5728)  
 
 ***Question:*** **'Hello. What's your name?'(Comment t'appelle tu?; Comment vous appelez-vous?; Quel est ton nom?)**  
 ***Answer:*** **'My name is…' (Je m'appelle...)**  
 
-[![ntmy](/images/ntmy.PNG){:height="60px"}](https://www.youtube.com/watch?v=rSwypHirUkM)[Nice to meet you. - Freddiesville](https://www.youtube.com/watch?v=rSwypHirUkM)  
+[![ntmy](/images/ntmy.PNG){:height="60px"}](https://www.youtube.com/watch?v=rSwypHirUkM) [Nice to meet you. - Freddiesville](https://www.youtube.com/watch?v=rSwypHirUkM)  
 
 ***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (Enchanté(e)/Enchanté(e) aussi.)**  
 
@@ -19,6 +19,6 @@ NB: Cette activité semble fonctionner mieux en utilisant Internet explorer
 ***Answer:*** **'I’m fine, thank you.' (Ça va bien, merci.)**
 
 ***
-[![home](/images/home.PNG){:height="25px"}](https://tangerina-pt.github.io/English/Year2) [Return to Year 2 English Site](https://tangerina-pt.github.io/English/Year2)  
+[![home](/images/home.png){:height="25px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)  
 
 ***
