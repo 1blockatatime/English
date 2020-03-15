@@ -9,7 +9,7 @@
 
 ***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (Enchanté(e)/Enchanté(e) aussi.)**  
 
-[![grsmfv](/images/grsmfv.PNG){:height="60px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Écoute et mets les mots dans le bon ordre. Exercices par Freddiesville](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
+[![grsmfv](/images/grsmfv.PNG){:height="60px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Écoute et mets les mots dans le bon ordre. Exercices de Freddiesville](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/)  
 
 NB: Cette activité semble fonctionner mieux en utilisant Internet explorer  
 
