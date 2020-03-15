@@ -17,16 +17,16 @@
 
 [![pt10](/images/pt10.PNG){:height="75px"}](https://www.youtube.com/watch?v=KZPBpDdePO0) [Montre tes doigts en comptant](https://www.youtube.com/watch?v=KZPBpDdePO0) (Chanson de PicTrain)  
 
-#### Joue les jeux
+***  
 
-[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Entre dans le jeu](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) et clique sur ![bapo6](/images/bapo6.PNG){:height="45px"}  
+[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Joue au 'Éclater le ballon'](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) et clique sur ![bapo6](/images/bapo6.PNG){:height="60px"}  
 Dis le numéro à haute voix, éclate le ballon puis écoute pour vérifier. (Jeu de Sheppard Software)  
 
-Tu veux essayer de compter à rebours en anglais? Clique à nouveau sur le jeu. Choisis: ![bapo7](/images/bapo7.PNG){:height="45px"}  
+Tu veux essayer de compter à rebours en anglais? Clique à nouveau sur le jeu. Choisis: ![bapo7](/images/bapo7.PNG){:height="60px"}  
 
 ***  
 
-[![nobi1](/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Joue de 0 à 10 - clique sur le bouton ![nobi3](/images/nobi3.PNG){:height="45px"}  
+[![nobi1](/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Joue de 0 à 10 - clique sur le bouton ![nobi3](/images/nobi3.PNG){:height="60px"}  
 
 ***  
 
