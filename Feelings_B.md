@@ -29,6 +29,7 @@ Clique sur le texte pour écouter et répéter la conversation.
 
 [![edvhay2](/images/edvhay2.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm)  
 (Dialogue de Dép. de Éducation, Vic., Australie)  
+Clique sur le texte pour écouter et répéter la conversation.  
 
 [![edvhay4](/images/edvhay5.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm)  
 (Exercices de compréhension orale/lecture de la Dép. de Éducation, Vic., Australie)  
