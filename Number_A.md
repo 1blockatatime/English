@@ -15,23 +15,23 @@
 
 ***  
 
-[![pt10](/images/pt10.PNG){:height="75px"}](https://www.youtube.com/watch?v=KZPBpDdePO0) [Montre tes doigts en comptant.](https://www.youtube.com/watch?v=KZPBpDdePO0) (Chanson de PicTrain)  
+[![pt10](/images/pt10.PNG){:height="75px"}](https://www.youtube.com/watch?v=KZPBpDdePO0) [Montre tes doigts en comptant](https://www.youtube.com/watch?v=KZPBpDdePO0) (Chanson de PicTrain)  
 
 #### Joue les jeux
 
-[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Entre dans le jeu](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) et clique sur ![bapo6](/images/bapo6.PNG){:height="75px"}  
+[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Entre dans le jeu](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) et clique sur ![bapo6](/images/bapo6.PNG){:height="45px"}  
 Dis le numéro à haute voix, éclate le ballon puis écoute pour vérifier. (Jeu de Sheppard Software)  
 
-Un défi: Essaie de compter à rebours en anglais. Clique à nouveau sur le jeu et choisis: ![bapo7](/images/bapo7.PNG){:height="75px"}  
+Tu veux essayer de compter à rebours en anglais? Clique à nouveau sur le jeu. Choisis: ![bapo7](/images/bapo7.PNG){:height="45px"}  
 
 ***  
 
-[![nobi1](/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Joue de 0 à 10 - clique sur le bouton ![nobi3](/images/nobi3.PNG){:height="75px"}  
+[![nobi1](/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Joue de 0 à 10 - clique sur le bouton ![nobi3](/images/nobi3.PNG){:height="45px"}  
 
 ***  
 
 [![nocc1](/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm ) [Compte les bougies](http://www.abcya.com/kindergarten_counting.htm)    
-Pour chaque gâteau, réponde à la question "quel âge a l'enfant?". Clique sur les bougies une à la fois pour écouter le compte à voix haute en anglais. Ensuite, plusieurs chiffres apparaissent. Choisis le bon numéro. (Jeu de ABCya)
+Pour chaque gâteau, réponde à la question "quel âge a l'enfant?". Clique sur les bougies une à la fois pour l'allumer et écouter le compte à voix haute en anglais. Ensuite, plusieurs chiffres apparaissent. Choisis le bon numéro. (Jeu de ABCya)
 
 <!--[![nocc2](/images/nocc2.PNG)](http://www.abcya.com/kindergarten_counting.htm)  
  [![ssno1](/images/ssno1.PNG)](http://www.sheppardsoftware.com/preschool/ngames/numbers.htm) [Count the toys](http://www.sheppardsoftware.com/preschool/ngames/numbers.htm) / [Conta os brinquedos](http://www.sheppardsoftware.com/preschool/ngames/numbers.htm)  
@@ -41,7 +41,7 @@ Pour chaque gâteau, réponde à la question "quel âge a l'enfant?". Clique sur
 
 ***  
 
-* Se tu déjà connais 1 à 10, [travaille 1 à 20](https://1blockatatime.github.io/English/Number_B_II)  
+* Se tu déjà sais 1 à 10, [travaille 1 à 20](https://1blockatatime.github.io/English/Number_B_II)  
    
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
