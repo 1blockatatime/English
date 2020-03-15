@@ -9,9 +9,9 @@
 </script>
 </head>
 
-### Feelings
+## Feelings
 
-## [![hoyt](/images/hoyt.png){:height="60px"}](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Comment allez vous aujourd'hui?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
+### [![hoyt](/images/hoyt.png){:height="60px"}](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Comment allez vous aujourd'hui?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
 (Chanson de English Through Music)  
 
 ***Question:*** **'How are you?'(Ça va?/Comment allez-vous?)**  
@@ -19,17 +19,17 @@
 
 ***  
 
-[![emelf](/images/emelf.png){:height="60px"}](https://www.youtube.com/watch?v=xRlTTSpGUx4) [Expressing emotions/Exprimir ses émotions](https://www.youtube.com/watch?v=xRlTTSpGUx4)  
+### [![emelf](/images/emelf.png){:height="60px"}](https://www.youtube.com/watch?v=xRlTTSpGUx4) [Expressing emotions/Exprimir ses émotions](https://www.youtube.com/watch?v=xRlTTSpGUx4)  
 (Leçon de Elf Learning)  
 
 ***  
 
-[![felvwk2](/images/felvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud) (Exercices de Liveworksheets)  
-Clique sur l'espace blanc à côté du mot pour écouter le mot. Trace une ligne entre le mot et l'image. Une fois terminé, cliquez sur le bouton bleu «FINISH» en bas, et puis sur la loupe pour corriger.  
+### [![felvwk2](/images/felvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud) 
+(Exercices de Liveworksheets) Clique sur l'espace blanc à côté du mot pour écouter le mot. Trace une ligne entre le mot et l'image. Une fois terminé, cliquez sur le bouton bleu «FINISH» en bas, et puis sur la loupe pour corriger.  
 
 ***  
 
-[![edvhay1](/images/edvhay1.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_1/no_1.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_1/no_1.htm)  
+### [![edvhay1](/images/edvhay1.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_1/no_1.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_1/no_1.htm)  
 (Dialogue de Dép. de Éducation, Vic., Australie)  
 Clique sur le texte pour écouter et répéter la conversation.  
 
@@ -38,19 +38,19 @@ Clique sur le texte pour écouter et répéter la conversation.
 
 ***  
 
-[![edvhay2](/images/edvhay2.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm)  
+### [![edvhay2](/images/edvhay2.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm)  
 (Dialogue de Dép. de Éducation, Vic., Australie)  
 Clique sur le texte pour écouter et répéter la conversation.  
 
 ***  
 
-[![edvhay4](/images/edvhay5.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm)  
+### [![edvhay4](/images/edvhay5.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm)  
 (Exercices de compréhension orale/lecture de la Dép. de Éducation, Vic., Australie)  
 Clique sur 'start'. Écoute et choisis la bonne réponse.  
 
 ***  
 
-[![edvhay4](/images/edvhay4.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm)  
+### [![edvhay4](/images/edvhay4.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm)  
 (Exercices de ecriture de la Dép. de Éducation, Vic., Australie)  
 Clique sur la personne pour écouter. Écris.  
 
