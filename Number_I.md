@@ -19,7 +19,7 @@
 
 ***  
 
-[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Joue au 'Éclater le ballon'](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) et clique sur ![bapo6](/images/bapo6.PNG){:height="60px"}  
+[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Joue au 'Éclater le ballon'.](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Clique sur ![bapo6](/images/bapo6.PNG){:height="60px"}  
 Dis le numéro à haute voix, éclate le ballon puis écoute pour vérifier. (Jeu de Sheppard Software)  
 
 Tu veux essayer de compter à rebours en anglais? Clique à nouveau sur le jeu. Choisis: ![bapo7](/images/bapo7.PNG){:height="60px"}  
