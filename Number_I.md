@@ -41,7 +41,7 @@ Pour chaque gâteau, réponde à la question "quel âge a l'enfant?". Clique sur
 
 ***  
 
-* Se tu déjà sais 1 à 10, [travaille 1 à 20](https://1blockatatime.github.io/English/Number_B_II)  
+* Se tu déjà sais 1 à 10, [travaille 1 à 20](https://1blockatatime.github.io/English/Number_II)  
    
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
