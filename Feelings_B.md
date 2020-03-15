@@ -26,7 +26,8 @@ Clique sur l'espace blanc à côté du mot pour écouter le mot. Trace une ligne
 ***  
 
 [![edvhay1](/images/edvhay1.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_1/no_1.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_1/no_1.htm)    
-Clique sur le texte pour écouter et répéter la conversation. (Dialogue de Dép. de Éducation, Vic., Australie)  
+Clique sur le texte pour écouter et répéter la conversation.  
+(Dialogue de Dép. de Éducation, Vic., Australie)  
 
 ***Question:*** **'How are you?'(Ça va?/Comment allez-vous?)**  
 ***Answers:*** **'I'm fine.'(Ça va bien.); 'Not bad, thanks.' (Pas mal, merci.); 'I'm a bit sick.' (Je suis un peu malade.)**  
@@ -34,18 +35,21 @@ Clique sur le texte pour écouter et répéter la conversation. (Dialogue de Dé
 ***  
 
 [![edvhay2](/images/edvhay2.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm)  
-Clique sur le texte pour écouter et répéter la conversation. (Dialogue de Dép. de Éducation, Vic., Australie)  
+Clique sur le texte pour écouter et répéter la conversation.  
+(Dialogue de Dép. de Éducation, Vic., Australie)  
 
 ***  
 
 [![edvhay4](/images/edvhay5.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm)  
   
-Clique sur **'start'**. Écoute et choisis la bonne réponse. (Exercices de compréhension orale/lecture de la Dép. de Éducation, Vic., Australie)  
+Clique sur **'start'**. Écoute et choisis la bonne réponse.  
+(Exercices de compréhension orale/lecture de la Dép. de Éducation, Vic., Australie)  
 
 ***  
 
 [![edvhay4](/images/edvhay4.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm)  
-Clique sur la personne pour écouter. Écris. (Exercices de ecriture de la Dép. de Éducation, Vic., Australie)    
+Clique sur la personne pour écouter. Écris.  
+(Exercices de ecriture de la Dép. de Éducation, Vic., Australie)    
 
 ***  
 
