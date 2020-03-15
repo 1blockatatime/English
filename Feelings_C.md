@@ -19,7 +19,7 @@
 
 ***  
 
-[![emelf](/images/emelf.PNG){:height="60px"}](https://www.youtube.com/watch?v=xRlTTSpGUx4) [Expressing emotions/Exprimir ses émotions](https://www.youtube.com/watch?v=xRlTTSpGUx4)  
+[![emelf](/images/emelf.png){:height="60px"}](https://www.youtube.com/watch?v=xRlTTSpGUx4) [Expressing emotions/Exprimir ses émotions](https://www.youtube.com/watch?v=xRlTTSpGUx4)  
 (Leçon de Elf Learning)  
 
 ***  
