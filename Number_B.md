@@ -18,7 +18,7 @@
 ### Language Structures
 
 ***Question:*** **'How old are you?' (Quel âge as-tu/avez-vous?)**  
-***Answer:*** **'I'm ____ .' (J'ai _____ ans.)**
+***Answer:*** **'I'm ____ years old.' (J'ai _____ ans.)**
 
 [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4) (Chanson de English Tree TV)  
 
