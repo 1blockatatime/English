@@ -26,7 +26,7 @@ Tu veux essayer de compter à rebours en anglais? Clique à nouveau sur le jeu. 
 
 ***  
 
-[![nobi1](/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Joue de 0 à 10 - clique sur le bouton ![nobi3](/images/nobi3.PNG){:height="60px"}  
+[![nobi1](/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Clique sur le bouton ![nobi3](/images/nobi3.PNG){:height="60px"} (Jeu de ABCya)   
 
 ***  
 
