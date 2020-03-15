@@ -16,29 +16,41 @@
 
 ***Question:*** **'How are you?'(Ça va?/Comment allez-vous?)**  
 ***Answers:*** **'I'm happy.'(Je suis content(e).); 'I'm very happy.' (Je suis très content(e).); 'I'm sad.' (Je suis triste.); 'I'm angry.' (Je suis faché(e).); 'I'm tired.' (Je suis fatigué(e).); 'I'm hungry.' (J'ai faim.)**  
-***
+
+***  
+
 [![felvwk2](/images/felvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud) (Exercices de Liveworksheets)  
 Clique sur l'espace blanc à côté du mot pour écouter le mot. Trace une ligne entre le mot et l'image. Une fois terminé, cliquez sur le bouton bleu «FINISH» en bas, et puis sur la loupe pour corriger.  
-***
+
+***  
+
 [![edvhay1](/images/edvhay1.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_1/no_1.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_1/no_1.htm)  
 (Dialogue de Dép. de Éducation, Vic., Australie)  
 Clique sur le texte pour écouter et répéter la conversation.  
 
 ***Question:*** **'How are you?'(Ça va?/Comment allez-vous?)**  
 ***Answers:*** **'I'm fine.'(Ça va bien.); 'Not bad, thanks.' (Pas mal, merci.); 'I'm a bit sick.' (Je suis un peu malade.)**  
-***
+
+***  
+
 [![edvhay2](/images/edvhay2.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_2/no_2.htm)  
 (Dialogue de Dép. de Éducation, Vic., Australie)  
 Clique sur le texte pour écouter et répéter la conversation.  
-***
+
+***  
+
 [![edvhay4](/images/edvhay5.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_5/no_5.htm)  
 (Exercices de compréhension orale/lecture de la Dép. de Éducation, Vic., Australie)  
 Clique sur 'start'. Écoute et choisis la bonne réponse.  
-***
+
+***  
+
 [![edvhay4](/images/edvhay4.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm)  
 (Exercices de ecriture de la Dép. de Éducation, Vic., Australie)  
 Clique sur la personne pour écouter. Écris.  
-***
+
+***  
+
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)  
 
 ***
