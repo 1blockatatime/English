@@ -2,7 +2,7 @@
 
 [![wyn](/images/wyn1.png){:height="60px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) Chanson de Maple Leaf Learning  
 
-***Question:*** **'Hello. What's your name?'(Comment t'appelle tu/vous appelez-vous?; Quel est ton nom?)**  
+***Question:*** **'What's your name?'(Comment t'appelle tu/vous appelez-vous?; Quel est ton nom?)**  
 ***Answer:*** **'My name is…' (Je m'appelle...)**  
 
 [![ntmy](/images/ntmy.PNG){:height="60px"}](https://www.youtube.com/watch?v=rSwypHirUkM) [Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM) Dialogue de Freddiesville    
