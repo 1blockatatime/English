@@ -17,21 +17,18 @@
 
 ***  
 
-[![pt10](/images/pt10.PNG){:height="75px"}](https://www.youtube.com/watch?v=KZPBpDdePO0)
-
-Montre tes doigts en chantant.  
+[![pt10](/images/pt10.PNG){:height="75px"}](https://www.youtube.com/watch?v=KZPBpDdePO0) Montre tes doigts en comptant. (Chanson de PicTrain)  
 
 #### Play games / Joue les jeux
 
-[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  Choisis ![bapo6](/images/bapo6.PNG){:height="60px"}     
-Compte à haute voix - dis le nombre, éclate le ballon puis écoute pour vérifier.    
-  
-Tu veux essayer de compter à rebours? Clique à nouveau sur le jeu ci-dessus et choisi: ![bapo7](/images/bapo7.PNG){:height="60px"}  
+[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Choisis ![bapo6](/images/bapo6.PNG){:height="60px"} Dis le numéro à haute voix, éclate le ballon puis écoute pour vérifier.    
+
+Tu veux essayer de compter à rebours? Clique à nouveau sur le jeu ci-dessus et choisis: ![bapo7](/images/bapo7.PNG){:height="60px"}  
 
 ***
 
 [![nobi1](/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm)  
-   Play 0-10  ![nobi3](/images/nobi3.PNG).
+Choisis   Play 0-10  ![nobi3](/images/nobi3.PNG).
 
 * [![nocc1](/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
 
