@@ -1,11 +1,11 @@
 ### Greetings  
 
-[![wyn](/images/wyn1.png){:height="60px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) Chanson de Maple Leaf Learning  
+[![wyn](/images/wyn1.png){:height="60px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) (Chanson de Maple Leaf Learning)  
 
 ***Question:*** **'What's your name?'(Comment t'appelle tu/vous appelez-vous?; Quel est ton nom?)**  
 ***Answer:*** **'My name is…' (Je m'appelle...)**  
 
-[![ntmy](/images/ntmy.PNG){:height="60px"}](https://www.youtube.com/watch?v=rSwypHirUkM) [Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM) Dialogue de Freddiesville  
+[![ntmy](/images/ntmy.PNG){:height="60px"}](https://www.youtube.com/watch?v=rSwypHirUkM) [Nice to meet you.](https://www.youtube.com/watch?v=rSwypHirUkM) (Dialogue de Freddiesville)  
 
 ***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (Enchanté(e)/Enchanté(e) aussi.)**  
 
