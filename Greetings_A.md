@@ -9,7 +9,7 @@
 
 ***Answer:*** **'Nice to meet you.'/'Nice to meet you too.' (Enchanté(e)/Enchanté(e) aussi.)**  
 
-[![gae1](/images/gae1.PNG){:height="60px"}](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (Vidéo: What's your name?/How are you?)
+[![gae1](/images/gae1.PNG){:height="60px"}](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (Vidéo)
 
 ***Question:*** **'How are you?' (Comment ça va?)**  
 ***Answer:*** **'I’m fine, thank you.' (Ça va bien, merci.)**
