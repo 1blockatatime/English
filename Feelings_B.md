@@ -17,7 +17,7 @@
 ***Question:*** **'How are you?'(Ça va?/Comment allez-vous?)**  
 ***Answers:*** **'I'm happy.'(Je suis content(e).); 'I'm very happy.' (Je suis très content(e).); 'I'm sad.' (Je suis triste.); 'I'm angry.' (Je suis faché(e).); 'I'm tired.' (Je suis fatigué(e).); 'I'm hungry.' (J'ai faim.)**  
 
-[![felvwk2](/images/felvwk2.png){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud) [How are you today?/Comment allez vous aujourd'hui?](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud)  
+[![felvwk2](/images/felvwk2.PNG){:height="60px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud) [How are you today?/Comment allez vous aujourd'hui?](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Feelings_and_emotions/Feelings_listen_and_match_kj7761ud)  
 (Exercices de Liveworksheets)
 Clique sur l'espace blanc à côté du mot pour écouter le mot. Trace une ligne entre le mot et l'image. Une fois terminé, cliquez sur le bouton bleu «FINISH» en bas, et puis sur la loupe pour corriger.  
 
