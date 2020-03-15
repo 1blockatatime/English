@@ -11,7 +11,7 @@
 
 ### Feelings
 
-[![hoyt](/images/hoyt.png){:height="60px"}](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Comment allez vous aujourd'hui?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
+[![hoyt](/images/hoyt.png){:height="75px"}](https://www.youtube.com/watch?v=fMR8Hr9Xby4) [How are you today?/Comment allez vous aujourd'hui?](https://www.youtube.com/watch?v=fMR8Hr9Xby4)  
 (Chanson de English Through Music)  
 
 ***Question:*** **'How are you?'(Ça va?/Comment allez-vous?)**  
