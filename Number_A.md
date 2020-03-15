@@ -13,8 +13,6 @@
 
 #### [![numb2](/images/numb2.PNG){:height="75px"}](https://1blockatatime.github.io/English/Number_I) [Apprendre números 1-10/Learn Numbers 1-10](https://1blockatatime.github.io/English/Number_I)   
 
-#### [![numb3](/images/numb3.PNG){:height="75px"}](https://1blockatatime.github.io/English/Number_II) [Apprendre números 1-20/Learn Numbers 1-20](https://1blockatatime.github.io/English/Number_II)    
-
 ### Language Structures
 
 ***Question:*** **'How old are you?' (Quel âge as-tu/avez-vous?)**  
