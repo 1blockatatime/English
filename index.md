@@ -1,10 +1,10 @@
-<h2> 
+<h1> 
 <p align="center">
 English
 </p>
-</h2>
+</h1>
 
-<h4>
+<h2>
 <p align="center">
   <a href="https://1blockatatime.github.io/English/A">Level 1</a>
   <br>
@@ -13,7 +13,7 @@ English
   <a href="https://1blockatatime.github.io/English/B">Level 2</a>
   <br>
 </p>
-
+</h2>
 <!--<p align="center">
   <a href="https://1blockatatime.github.io/English/Year3">Year 3</a>
   <br>
