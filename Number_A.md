@@ -13,20 +13,24 @@
 
 #### Sing and count / Chante et compte
 
-* [![pmno](/images/pmno.PNG){:height="75px"}](https://www.youtube.com/watch?v=diMJIlv-4N0) 
+[![pmno](/images/pmno.PNG){:height="75px"}](https://www.youtube.com/watch?v=diMJIlv-4N0) (Chanson de Pancake Major) 
 
-* [![pt10](/images/pt10.PNG){:height="75px"}](https://www.youtube.com/watch?v=KZPBpDdePO0)
+***  
 
-   Mostra os dedos enquanto contas./Hold up your fingers as you count.
-   
-#### Play games
+[![pt10](/images/pt10.PNG){:height="75px"}](https://www.youtube.com/watch?v=KZPBpDdePO0)
 
-* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Choose ![bapo6](/images/bapo6.PNG)  
-   Count aloud from 1 to 10 – pop the balloon for each number after you say the number and listen to check. / Conta em voz alta de 1 a 10 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
+Montre tes doigts en chantant.  
+
+#### Play games / Joue les jeux
+
+[![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  Choisis ![bapo6](/images/bapo6.PNG){:height="60px"}     
+Compte à haute voix - dis le nombre, éclate le ballon puis écoute pour vérifier.    
   
-   Then challenge yourself to count down / Depois desafia-te - conta para baixo: ![bapo7](/images/bapo7.PNG)  
+Tu veux essayer de compter à rebours? Clique à nouveau sur le jeu ci-dessus et choisi: ![bapo7](/images/bapo7.PNG){:height="60px"}  
 
-* [![nobi1](/images/nobi1.PNG){:height="75px"}]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
+***
+
+[![nobi1](/images/nobi1.PNG){:height="75px"}](http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm)  
    Play 0-10  ![nobi3](/images/nobi3.PNG).
 
 * [![nocc1](/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
