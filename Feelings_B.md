@@ -37,7 +37,7 @@ Clique sur 'start'. Écoute et choisis la bonne réponse.
 
 [![edvhay4](/images/edvhay4.PNG){:height="60px"}](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm) [How are you ?/Comment allez vous?](https://www.education.vic.gov.au/languagesonline/english/sect06/no_4/no_4.htm)  
 (Exercices de ecriture de la Dép. de Éducation, Vic., Australie)  
-Clique sur la personne pour écouter et écris.  
+Clique sur la personne pour écouter. Écris.  
 
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)  
