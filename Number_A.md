@@ -1,36 +1,35 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
+  gtag('config', 'UA-160613202-1');
 </script>
 </head>
 
-### Numbers 1 to 10  / Números de 1 a 10
+### Numbers 1 to 10  / Numéros 1 à 10
 
-#### Sing and count
+#### Sing and count / Chante et compte
 
-* [![pmno](/images/pmno.PNG)](https://www.youtube.com/watch?v=diMJIlv-4N0) 
+* [![pmno](/images/pmno.PNG){:height="75px"}](https://www.youtube.com/watch?v=diMJIlv-4N0) 
 
-* [![pt10](/images/pt10.PNG)](https://www.youtube.com/watch?v=KZPBpDdePO0)
+* [![pt10](/images/pt10.PNG){:height="75px"}](https://www.youtube.com/watch?v=KZPBpDdePO0)
 
    Mostra os dedos enquanto contas./Hold up your fingers as you count.
    
 #### Play games
 
-* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](/images/bapo5.PNG)](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Choose ![bapo6](/images/bapo6.PNG)  
+* [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm)  [![bapo5](/images/bapo5.PNG){:height="75px"}](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount10.htm) Choose ![bapo6](/images/bapo6.PNG)  
    Count aloud from 1 to 10 – pop the balloon for each number after you say the number and listen to check. / Conta em voz alta de 1 a 10 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
   
    Then challenge yourself to count down / Depois desafia-te - conta para baixo: ![bapo7](/images/bapo7.PNG)  
 
-* [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
+* [![nobi1](/images/nobi1.PNG){:height="75px"}]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
    Play 0-10  ![nobi3](/images/nobi3.PNG).
 
-* [![nocc1](/images/nocc1.PNG)](http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
+* [![nocc1](/images/nocc1.PNG){:height="75px"}](http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário](http://www.abcya.com/kindergarten_counting.htm)  
 
    Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparecem vários números. Escolha o número certo. [![nocc2](/images/nocc2.PNG)](http://www.abcya.com/kindergarten_counting.htm)  
 
