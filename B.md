@@ -17,9 +17,9 @@ Level 2 English
 
 ## [Topic 1 - Greetings/Introductions](https://1blockatatime.github.io/English/Greetings_B)[![gtsym](/images/gtsym.PNG){:height="40px"}](https://1blockatatime.github.io/English/Greetings_B)
 
-## [Topic 2 - Talking about colour](https://1blockatatime.github.io/English/Colours_B)[![colmix2](/images/colmix2.png){:height="40px"}](https://1blockatatime.github.io/English/Colours_B)
+## [Topic 2 - Talking about number](https://1blockatatime.github.io/English/Number_B)[![numb3](/images/numb3.PNG){:height="40px"}](https://1blockatatime.github.io/English/Number_B)
 
-## [Topic 3 - Talking about number](https://1blockatatime.github.io/English/Number_B)[![numb3](/images/numb3.PNG){:height="40px"}](https://1blockatatime.github.io/English/Number_B)
+## [Topic 3 - Talking about colour](https://1blockatatime.github.io/English/Colours_B)[![colmix2](/images/colmix2.png){:height="40px"}](https://1blockatatime.github.io/English/Colours_B)
 
 ## [Topic 4 - Talking about the weather](https://1blockatatime.github.io/English/Weather_B)[![wsym](/images/wsym.PNG){:height="40px"}](https://1blockatatime.github.io/English/Weather_B)  
 
