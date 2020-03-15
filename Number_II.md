@@ -20,7 +20,7 @@ Dis le numéro à haute voix, éclate le ballon puis écoute pour vérifier. (Je
 
 ***
 
-[![nobi1](/images/nobi1.PNG){:height="75px"}]( http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Joue de 0 à 20 - clique sur le bouton ![nobi4](/images/nobi4.PNG){:height="60px"}.  
+[![nobi1](/images/nobi1.PNG){:height="75px"}]( http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Clique sur le bouton ![nobi4](/images/nobi4.PNG){:height="60px"} (Jeu de ABCya)    
 
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
