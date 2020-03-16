@@ -1,12 +1,11 @@
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110947112-3"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160613202-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
-  gtag('config', 'UA-110947112-3');
+  gtag('config', 'UA-160613202-1');
 </script>
 </head>
 
@@ -39,7 +38,6 @@ N.B. Nos E.U.A. a estrutura mais simples 'I have...' é comum mas os currículos
 **Adjectives (come before the noun) e.g. / (Adjectivos (vêm antes da palavra que descrevem) p.ex.**   **'big(grande)/small(pequeno)/long(comprido)/short(curto)/clean(limpo)/dirty(sujo)/ugly(feio)/beautiful(bonito)'**  
 
 ***
-[![home](/images/home.PNG)](https://tangerina-pt.github.io/English/Body_Parts_B) [Return to Year 2 - Body Parts](https://tangerina-pt.github.io/English/Body_Parts_B)
+[![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
 
 ***
-
