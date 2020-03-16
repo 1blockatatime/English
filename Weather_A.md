@@ -12,21 +12,19 @@
 
 ### How's the weather?
 
-#### Song
-[![mlwe](/images/mlwe.png){:height="60px"}](https://www.youtube.com/watch?v=I8GeA3anPdo) Sing the [weather song.](https://www.youtube.com/watch?v=I8GeA3anPdo)  
+[![mlwe](/images/mlwe.png){:height="75px"}](https://www.youtube.com/watch?v=I8GeA3anPdo) [How's the weather?](https://www.youtube.com/watch?v=I8GeA3anPdo) (Chanson de Maple Leaf Learning)  
 
-#### Games
-(1). [Jogo de memória 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [![weme](/images/weme.PNG){:height="60px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  Clicar e rolar para baixo. 
+***Question:*** **'How's the weather?'(Quel temps fait-il?)**  
+***Answers:*** **'It's sunny.'(Il fait du soleil.); 'It's rainy.' (Il pleut.); 'It's cloudy.' (C’est nuageux.); 'It's windy.' (Il fait du vent.); 'It's snowy.' (Il neige.)**  
 
-(2). [Jogo de memória 2](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [![weme2](/images/weme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) 
+***  
 
-(3). [Junta as palavras e as imagens.](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1) [![bcwe1](/images/bcwe1.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1)   
-(Não é preciso poder ler as palavras. Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)    
+[![weme](/images/weme.PNG){:height="75px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Jeu de mémoire 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  Clicar e rolar para baixo. (Jeu de Kids Learning Ville)  
+Fais défiler vers le bas jusqu'au milieu de la page.
 
+***  
 
-<!-- For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. -->
-
-[Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.]
+[![weme2](/images/weme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jeu de mémoire 2](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) (Jeu de ESL Games World)  
 
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
