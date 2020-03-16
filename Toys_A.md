@@ -19,16 +19,16 @@ Peux-tu dire le nom du jouet avant que l’image n’apparaisse?  (Vidéo de Fun
 ***Question:*** **'What is it?'(Qu'est-ce que c'est?)**  
 ***Answer:*** **'It's a ...' (C'est un/une ...)**  
 
-[![toyslvwk1](/images/toyslvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1b](/images/toyslvwk1bfr.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
+[![toyslvwk1](/images/toyslvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1bfr](/images/toyslvwk1bfr.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 
-[![gwtme](/images/gwtme.PNG){:height="60px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1](/images/memins1.PNG){:height="35px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
+[![gwtme](/images/gwtme.PNG){:height="75px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1fr](/images/memins1fr.PNG){:height="50px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
 
-[![gwtme2](/images/gwtme2.PNG){:height="60px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2](/images/memins2.PNG){:height="35px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
+[![gwtme2](/images/gwtme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2fr](/images/memins2fr.PNG){:height="50px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
 
-[![mety](/images/mety.PNG){:height="60px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1](/images/memins1.PNG){:height="35px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
+[![mety](/images/mety.PNG){:height="75px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1fr](/images/memins1fr.PNG){:height="50px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
 
-*REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
-*LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares. 
+<!--*REMEMBER* - There's no rush - it doesn't matter how long it takes you to find the pairs.  
+*LEMBRA-TE* - Não há pressa - não tem importância o tempo que demoras a encontrar os pares.--> 
 
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
