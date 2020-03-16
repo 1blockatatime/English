@@ -13,8 +13,8 @@
 
 [![fcety](/images/fkety.PNG){:height="75px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) [Apprends les noms des jouets](https://www.youtube.com/watch?v=gGxaTfzmuMI) (Vidéo de Fun Kids English)  
 
-[![fket](/images/fket.PNG){:height="75px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?/Qu'est-ce que c'est?](https://www.youtube.com/watch?v=8-SWzpdcl6E)  
-Peux-tu dire le nom du jouet avant que l’image n’apparaisse?  (Vidéo de Fun Kids English)  
+[![fket](/images/fket.PNG){:height="75px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [What is it?](https://www.youtube.com/watch?v=8-SWzpdcl6E) (Vidéo de Fun Kids English)  
+Peux-tu dire le nom du jouet avant que l’image n’apparaisse?   
 
 ***Question:*** **'What is it?'(Qu'est-ce que c'est?)**  
 ***Answer:*** **'It's a ...' (C'est un/une ...)**  
@@ -22,11 +22,11 @@ Peux-tu dire le nom du jouet avant que l’image n’apparaisse?  (Vidéo de Fun
 [![toyslvwk1](/images/toyslvwk1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz) [![toyslvwk1bfr](/images/toyslvwk1bfr.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Toys/Toys_(listen_and_choose)_ot1373gz)   
 (Exercices de Liveworksheets)  
 
-[![gwtme](/images/gwtme.PNG){:height="75px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1fr](/images/memins1fr.PNG){:height="50px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html)  
+[![gwtme](/images/gwtme.PNG){:height="75px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) [![memins1fr](/images/memins1fr.PNG){:height="50px"}](http://eslgamesworld.com/members/games/vocabulary/memoryaudio/toys2/index.html) (Jeu de ESL Games World)    
 
-[![gwtme2](/images/gwtme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2fr](/images/memins2fr.PNG){:height="45px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html)  
+[![gwtme2](/images/gwtme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) [![memins2fr](/images/memins2fr.PNG){:height="45px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/toys/index.html) (Jeu de ESL Games World)   
 
-[![mety](/images/mety.PNG){:height="75px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1fr](/images/memins1fr.PNG){:height="50px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  
+[![mety](/images/mety.PNG){:height="75px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1fr](/images/memins1fr.PNG){:height="50px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/) (Jeu de Kids Learning Ville)    
 
 #### La lecture
 
@@ -43,11 +43,11 @@ Peux-tu dire le nom du jouet avant que l’image n’apparaisse?  (Vidéo de Fun
 
 #### Extension
 
-[![atsc](/images/atsc.PNG){:height="75px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Réorganiser les lettres pour épeler les mots](http://www.anglomaniacy.pl/toysSpelling.htm) (Exercices de Angliomaniacy)   
+[![atsc](/images/atsc.PNG){:height="75px"}](http://www.anglomaniacy.pl/toysSpelling.htm) [Réorganiser les lettres pour épeler les mots](http://www.anglomaniacy.pl/toysSpelling.htm)   
 NB: Cette activité semble fonctionner mieux en utilisant Internet Explorer  
+(Exercices de Angliomaniacy)  
 
-
-[![lcty](/images/lcty.PNG){:height="75px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1](/images/lcgen1.PNG){:height="40px"}](http://www.learningchocolate.com/content/childrens-toys)   
+[![lcty](/images/lcty.PNG){:height="75px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1](/images/lcgen1.PNG){:height="60px"}](http://www.learningchocolate.com/content/childrens-toys)   
 <!---Lê cada palavra, depois clica na imagem do altifalante para verificar a tua pronûncia./Read each word then click on the picture of the speaker next to the word to check your pronunciation.   
 Optional extra challenge: Can you do all 5 activities?-->
 Desafio opcional extra: Consegues fazer todas as actividades? Clica em  
