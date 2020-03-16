@@ -21,6 +21,13 @@
 
 ***  
 
+[![esswea](/images/esswea.png){:height="75px"}](https://www.youtube.com/watch?v=CXKj7bm4Ops) [How's the weather?](https://www.youtube.com/watch?v=CXKj7bm4Ops)  (Vidéo de English Singsing)    
+
+***Question:*** **'How's the weather?'(Quel temps fait-il?)**  
+***Answers:*** **'It's foggy.'(Il fait du brouillard.); 'It's cold.' (Il fait froid.); 'It's hot.' (Il fait chaud.); 'It's stormy.' (C'est orageux.)**   
+
+***
+
 [![weme](/images/weme.PNG){:height="75px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Jeu de mémoire 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) (Jeu de Kids Learning Ville)  
 Fais défiler vers le bas jusqu'au milieu de la page.
 
@@ -30,7 +37,7 @@ Fais défiler vers le bas jusqu'au milieu de la page.
 
 ***  
 
-[![bbcwe](/images/bbcwe.PNG){:height="75px"}](http://www.ebiah.edu.pt/eb23ah.edu.pt/Departamentos/Departamentos08-09/Ingles/CENTRO%20DE%20RECURSOS%20DE%20INGL%C3%8AS%20-%20NET/SITE%20DE%20HOT%20POTATOES/RESOURCES/weather/weather3.mht) [Weather report](http://www.ebiah.edu.pt/eb23ah.edu.pt/Departamentos/Departamentos08-09/Ingles/CENTRO%20DE%20RECURSOS%20DE%20INGL%C3%8AS%20-%20NET/SITE%20DE%20HOT%20POTATOES/RESOURCES/weather/weather3.mht) (Jeu de la BBC)
+[![bbcwe](/images/bbcwe.PNG){:height="75px"}](http://www.ebiah.edu.pt/eb23ah.edu.pt/Departamentos/Departamentos08-09/Ingles/CENTRO%20DE%20RECURSOS%20DE%20INGL%C3%8AS%20-%20NET/SITE%20DE%20HOT%20POTATOES/RESOURCES/weather/weather3.mht) [Weather report](http://www.ebiah.edu.pt/eb23ah.edu.pt/Departamentos/Departamentos08-09/Ingles/CENTRO%20DE%20RECURSOS%20DE%20INGL%C3%8AS%20-%20NET/SITE%20DE%20HOT%20POTATOES/RESOURCES/weather/weather3.mht) (Jeu de la BBC)  
 Lis le bulletin météo. Fais glisser le symbole météo sur le point rose.  
 
 ***
