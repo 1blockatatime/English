@@ -23,8 +23,9 @@
 
 ***  
 
-[![weme](/images/weme.PNG){:height="75px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Jeu de mémoire 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  Clicar e rolar para baixo. (Jeu de Kids Learning Ville)  
-Fais défiler vers le bas jusqu'au milieu de la page.
+[![dehc](/images/dehc.PNG){:height="75px"}](https://www.youtube.com/watch?v=yXVy42Pe-5Q) [Hot and cold](https://www.youtube.com/watch?v=yXVy42Pe-5Q)  (Vidéo de Dream English)    
+
+***Language:*** **'hot'(chaud); 'cold'(froid)**  
 
 ***  
 
