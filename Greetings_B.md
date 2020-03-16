@@ -21,7 +21,7 @@
 
 [![grsmfv](/images/grsmfv.PNG){:height="75px"}](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) [Écoute et mets les mots dans le bon ordre.](https://www.freddiesville.com/games/nice-to-meet-you-greetings-expression-sentence-monkey-game/) (Exercices de Freddiesville)  
 
-NB: Cette activité semble fonctionner mieux en utilisant Internet explorer  
+NB: Cette activité semble fonctionner mieux en utilisant Internet Explorer  
 
 [![gae1](/images/gae1.PNG){:height="75px"}](https://www.youtube.com/watch?v=9R5-W3bMX4E) [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) (Vidéo)
 
