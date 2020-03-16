@@ -20,7 +20,7 @@
 ***Question:*** **'How old are you?' (Quel âge as-tu/avez-vous?)**  
 ***Answer:*** **'I'm ____ years old.' (J'ai _____ ans.)**
 
-[![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you? English Tree TV](https://www.youtube.com/watch?v=x2cI4ZgsYU4) (Chanson de English Tree TV)  
+[![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [How old are you?](https://www.youtube.com/watch?v=x2cI4ZgsYU4) (Chanson de English Tree TV)  
 
 [![gae8](/images/gae8.PNG){:height="75px"}](https://www.youtube.com/watch?v=sn4sp4YGz0E) Watch [Gogo’s Adventures with English 8](https://www.youtube.com/watch?v=sn4sp4YGz0E)
 
@@ -29,7 +29,7 @@
 ***Question:*** **'How many?' (Combien?)**  
 ***Answer:*** **'...Number..'(..Numéro..)**
 
-[![oxeuhm](/images/oxeuhm.PNG){:height="75px"}](https://www.youtube.com/watch?v=G3zaC5onBvM) [Combien?](https://www.youtube.com/watch?v=G3zaC5onBvM) (Chanson de Oxford University Press)  
+[![oxeuhm](/images/oxeuhm.PNG){:height="75px"}](https://www.youtube.com/watch?v=G3zaC5onBvM) [How many?](https://www.youtube.com/watch?v=G3zaC5onBvM) (Chanson de Oxford University Press)  
 
 ***
 
