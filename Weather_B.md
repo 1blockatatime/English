@@ -10,29 +10,28 @@
 </script>
 </head>
 
-### How's the weather?
+[![mlwe](/images/mlwe.png){:height="75px"}](https://www.youtube.com/watch?v=I8GeA3anPdo) [How's the weather?](https://www.youtube.com/watch?v=I8GeA3anPdo) (Chanson de Maple Leaf Learning)  
 
-***Question:*** **'How's the weather?' (Como está o tempo?)**  
-***Answer:*** **'It's sunny/rainy/windy/cloudy/snowy/stormy.' (Há... sol/chuva/vento/núvens/neve/tempestade.)**
+***Question:*** **'How's the weather?'(Quel temps fait-il?)**  
+***Answers:*** **'It's sunny.'(Il fait du soleil.); 'It's rainy.' (Il pleut.); 'It's cloudy.' (C’est nuageux.); 'It's windy.' (Il fait du vent.); 'It's snowy.' (Il neige.)**  
 
-[![mlwe](/images/mlwe.png){:height="60px"}](https://www.youtube.com/watch?v=I8GeA3anPdo) [Canta a canção fazendo as acções.](https://www.youtube.com/watch?v=I8GeA3anPdo)
+***  
 
-[![mlwe2](/images/mlwe2.png){:height="60px"}](https://www.youtube.com/watch?v=O2NwvUB41rA) [Vê o vídeo. Consegues responder antes do Andy Ant?](https://www.youtube.com/watch?v=O2NwvUB41rA)  
+[![mlwe2](/images/mlwe2.png){:height="75px"}](https://www.youtube.com/watch?v=O2NwvUB41rA) [Peux-tu répondre à la question avant Andy Ant?](https://www.youtube.com/watch?v=O2NwvUB41rA)  (Vidéo de Maple Leaf Learning)  
 
-#### Games
+***  
 
-(1). [![bcwe1](/images/bcwe1.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1) [Match the words to the pictures.](https://learnenglishkids.britishcouncil.org/en/word-games/weather-1)  
-For each word, click on the speaker to hear the word. Then click on the word itself followed by the grey space below the correct picture. (Para cada palavra, clica no altifalante para ouvir a palavra. Depois, clica na palavra seguido pelo rectângulo cinzento por baixo da imagem correcta.)
+[![weme](/images/weme.PNG){:height="75px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Jeu de mémoire 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  Clicar e rolar para baixo. (Jeu de Kids Learning Ville)  
+Fais défiler vers le bas jusqu'au milieu de la page.
 
-(2). [![weme](/images/weme.PNG){:height="60px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Play memory.](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  
+***  
 
-(3). [![bzwe1](/images/bzwe1.png){:height="60px"}](https://www.baamboozle.com/game/35795) [O nosso novo jogo do tempo na sala de aula](https://www.baamboozle.com/game/35795)   
+[![weme2](/images/weme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jeu de mémoire 2](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) (Jeu de ESL Games World)  
 
-<!--(3). [![bcwe2](/images/bcwe2.PNG){:height="60px"}](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather) [World weather](https://learnenglishkids.britishcouncil.org/en/games/whats-the-weather)
+***  
 
-(4). [![bbcwe](/images/bbcwe.PNG){:height="60px"}](http://www.bbc.co.uk/schools/barnabybear/games/weather_report.shtml) [UK weather](http://www.bbc.co.uk/schools/barnabybear/games/weather_report.shtml)-->
-
-[Minimum vocabulary: 'How's the weather?'; It's sunny.; It's cloudy.; It's windy.; It's rainy/raining.; It's snowy/snowing.; It's hot.; It's cold.]
+[![bbcwe](/images/bbcwe.PNG){:height="75px"}](http://www.ebiah.edu.pt/eb23ah.edu.pt/Departamentos/Departamentos08-09/Ingles/CENTRO%20DE%20RECURSOS%20DE%20INGL%C3%8AS%20-%20NET/SITE%20DE%20HOT%20POTATOES/RESOURCES/weather/weather3.mht) [Weather report](http://www.ebiah.edu.pt/eb23ah.edu.pt/Departamentos/Departamentos08-09/Ingles/CENTRO%20DE%20RECURSOS%20DE%20INGL%C3%8AS%20-%20NET/SITE%20DE%20HOT%20POTATOES/RESOURCES/weather/weather3.mht) (Jeu de la BBC)
+Lis le bulletin météo. Fais glisser le symbole météo sur le point rose.  
 
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
