@@ -64,7 +64,7 @@ NB: Cette activité semble fonctionner mieux en utilisant Internet Explorer
 
 ***  
 
-[![lcty](/images/lcty.PNG){:height="75px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1fr](/images/lcgen1fr.PNG){:height="60px"}](http://www.learningchocolate.com/content/childrens-toys)   
+[![lcty](/images/lcty.PNG){:height="75px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1fr](/images/lcgen1fr.PNG){:height="40px"}](http://www.learningchocolate.com/content/childrens-toys)   
 Défi supplémentaire : peux-tu faire toutes les activités? Clique sur    
 ![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) e ![lcdi](/images/lcdi.PNG)  
 (Exercices de Learning Chocolate)  
