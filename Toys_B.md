@@ -47,14 +47,13 @@ Peux-tu dire le nom du jouet avant que l’image n’apparaisse?
 NB: Cette activité semble fonctionner mieux en utilisant Internet Explorer  
 (Exercices de Angliomaniacy)  
 
-[![lcty](/images/lcty.PNG){:height="75px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1](/images/lcgen1.PNG){:height="60px"}](http://www.learningchocolate.com/content/childrens-toys)   
-<!---Lê cada palavra, depois clica na imagem do altifalante para verificar a tua pronûncia./Read each word then click on the picture of the speaker next to the word to check your pronunciation.   
-Optional extra challenge: Can you do all 5 activities?-->
-Desafio opcional extra: Consegues fazer todas as actividades? Clica em  
-![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) e ![lcdi](/images/lcdi.PNG)
+[![lcty](/images/lcty.PNG){:height="75px"}](http://www.learningchocolate.com/content/childrens-toys) [![lcgen1fr](/images/lcgen1fr.PNG){:height="60px"}](http://www.learningchocolate.com/content/childrens-toys)   
+Défi supplémentaire : peux-tu faire toutes les activités? Clique sur    
+![lcmu1](/images/lcmu1.PNG), ![lcmu2](/images/lcmu2.PNG), ![lcmu3](/images/lcmu3.PNG), ![lcfi](/images/lcfi.PNG) e ![lcdi](/images/lcdi.PNG)  
+(Exercices de Learning Chocolate)  
 
-(3). [![hmty](/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm) [![hmtyb](/images/hmtyb.PNG){:height="40px"}](http://www.anglomaniacy.pl/toysHangman.htm)  
-<!---Já consegues soletrar as palavras para brinquedos em inglês? Então estás pronto para [adivinhar as palavras mistério](http://www.anglomaniacy.pl/toysHangman.htm)/Can you spell the words? If so, you are ready to [play hangman](http://www.anglomaniacy.pl/toysHangman.htm). Que brinquedo será?-->  
+[![hmty](/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm) [![hmtyb](/images/hmtyb.PNG){:height="40px"}](http://www.anglomaniacy.pl/toysHangman.htm)  
+(Jeu de Anglomaniacy)  
 
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
