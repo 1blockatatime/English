@@ -19,17 +19,17 @@
 
 ***  
 
-[![mlwe2](/images/mlwe2.png){:height="75px"}](https://www.youtube.com/watch?v=O2NwvUB41rA) [Peux-tu répondre à la question avant Andy Ant?](https://www.youtube.com/watch?v=O2NwvUB41rA)  (Vidéo de Maple Leaf Learning)  
+[![mlwe2](/images/mlwe2.png){:height="75px"}](https://www.youtube.com/watch?v=O2NwvUB41rA) [Peux-tu répondre avant Andy Ant?](https://www.youtube.com/watch?v=O2NwvUB41rA)  (Vidéo de Maple Leaf Learning)  
 
 ***  
 
-[![dehc](/images/dehc.PNG){:height="75px"}](https://www.youtube.com/watch?v=yXVy42Pe-5Q) [Hot and cold](https://www.youtube.com/watch?v=yXVy42Pe-5Q)  (Vidéo de Dream English)    
+[![dehc](/images/dehc.png){:height="75px"}](https://www.youtube.com/watch?v=yXVy42Pe-5Q) [Hot and cold](https://www.youtube.com/watch?v=yXVy42Pe-5Q)  (Vidéo de Dream English)    
 
 ***Language:*** **'hot'(chaud); 'cold'(froid)**  
 
 ***  
 
-[![weme2](/images/weme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jeu de mémoire 2](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) (Jeu de ESL Games World)  
+[![weme2](/images/weme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jeu de mémoire](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) (Jeu de ESL Games World)  
 
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
