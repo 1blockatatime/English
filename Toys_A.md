@@ -13,7 +13,7 @@
 
 [![fcety](/images/fkety.PNG){:height="75px"}](https://www.youtube.com/watch?v=gGxaTfzmuMI) [Apprends les noms des jouets](https://www.youtube.com/watch?v=gGxaTfzmuMI) (Vidéo de Fun Kids English)  
 
-[![fket](/images/fket.PNG){:height="75px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [![fketbfr](/images/fketbfr.PNG){:height="50px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) (Vidéo de Fun Kids English)        
+[![fket](/images/fket.PNG){:height="75px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) [![fketbfr](/images/fketbfr.PNG){:height="30px"}](https://www.youtube.com/watch?v=8-SWzpdcl6E) (Vidéo de Fun Kids English)        
 
 ***Question:*** **'What is it?'(Qu'est-ce que c'est?)**  
 ***Answer:*** **'It's a ...' (C'est un/une ...)**  
