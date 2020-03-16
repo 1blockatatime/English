@@ -29,21 +29,23 @@ Level 2 English
 
 ## Topic 7 - The Alphabet ![alph](/images/alph.png){:height="40px"} 
 
-## Topic 8 - Days of the week/Months of the year ![days](/images/days.PNG){:height="40px"}
+## Topic 8 - The Calendar ![days](/images/days.PNG){:height="40px"}
 
 ## Topic 9 - Talking about me ![hsktbw](/images/hsktbw.jpg){:height="40px"}
 
-## Topic 10 - Classroom objects ![classo](/images/classo.png){:height="40px"}
+## Topic 10 - Talking about my family ![fam](/images/fam.jpg){:height="40px"}
 
-## Topic 11 - Talking about my family ![fam](/images/fam.jpg){:height="40px"}
+## Topic 11 - Classroom objects ![classo](/images/classo.png){:height="40px"}
+
+
 <!--
 ## [Topic 6 - Talking about colour](https://1blockatatime.github.io/English/Colours_B)[![colmix2](/images/colmix2.png){:height="40px"}](https://1blockatatime.github.io/English/Colours_B)
 ## [Topic 7 - The Alphabet](https://1blockatatime.github.io/English/Alphabet_B)[![alph](/images/alph.png){:height="40px"}](https://1blockatatime.github.io/English/Alphabet_B) 
-## [Topic 8 - Days of the week/Months of the year](https://1blockatatime.github.io/English/Calendar_B)[![days](/images/days.PNG){:height="40px"}](https://1blockatatime.github.io/English/Calendar_B)
+## [Topic 8 - The Calendar](https://1blockatatime.github.io/English/Calendar_B)[![days](/images/days.PNG){:height="40px"}](https://1blockatatime.github.io/English/Calendar_B)
 ## [Topic 9 - Talking about me](https://1blockatatime.github.io/English/Body_Parts_B)[![hsktbw](/images/hsktbw.jpg){:height="40px"}](https://1blockatatime.github.io/English/Body_Parts_B)
-## [Topic 10 - Classroom objects](https://1blockatatime.github.io/English/Classroom_Objects_B) [![classo](/images/classo.png){:height="40px"}](https://1blockatatime.github.io/English/Classroom_Objects_B)
-#### Topic 8 - Talking about my family
-#### [Topic 8 - Talking about my family](https://1blockatatime.github.io/English/Family_B) [![fam](/images/fam.jpg){:height="40px"}](https://1blockatatime.github.io/English/Family_B)-->
+## Topic 10 - Talking about my family
+## [Topic 10 - Talking about my family](https://1blockatatime.github.io/English/Family_B) [![fam](/images/fam.jpg){:height="40px"}](https://1blockatatime.github.io/English/Family_B)
+## [Topic 11 - Classroom objects](https://1blockatatime.github.io/English/Classroom_Objects_B) [![classo](/images/classo.png){:height="40px"}](https://1blockatatime.github.io/English/Classroom_Objects_B)-->
 
 <!--
 [![new](/images/new.gif){:height="30px"}]()
