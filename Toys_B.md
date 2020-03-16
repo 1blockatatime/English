@@ -71,7 +71,7 @@ Défi supplémentaire : peux-tu faire toutes les activités? Clique sur
 
 ***  
 
-[![hmty](/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm) [![hmtyb](/images/hmtyb.PNG){:height="40px"}](http://www.anglomaniacy.pl/toysHangman.htm)  
+[![hmty](/images/hmty.PNG){:height="60px"}](http://www.anglomaniacy.pl/toysHangman.htm) [![hmtybfr](/images/hmtybfr.PNG){:height="40px"}](http://www.anglomaniacy.pl/toysHangman.htm)  
 (Jeu de Anglomaniacy)  
 
 ***
