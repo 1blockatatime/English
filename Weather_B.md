@@ -17,11 +17,11 @@
 
 ***  
 
-[![mlwe2](/images/mlwe2.png){:height="75px"}](https://www.youtube.com/watch?v=O2NwvUB41rA) [Peux-tu répondre à la question avant Andy Ant?](https://www.youtube.com/watch?v=O2NwvUB41rA)  (Vidéo de Maple Leaf Learning)  
+[![mlwe2](/images/mlwe2.png){:height="75px"}](https://www.youtube.com/watch?v=O2NwvUB41rA) [Peux-tu répondre avant Andy Ant?](https://www.youtube.com/watch?v=O2NwvUB41rA)  (Vidéo de Maple Leaf Learning)  
 
 ***  
 
-[![weme](/images/weme.PNG){:height="75px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Jeu de mémoire 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/)  Clicar e rolar para baixo. (Jeu de Kids Learning Ville)  
+[![weme](/images/weme.PNG){:height="75px"}](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) [Jeu de mémoire 1](https://www.kidslearningville.com/weather-vocabulary-esl-memory-game-for-beginners/) (Jeu de Kids Learning Ville)  
 Fais défiler vers le bas jusqu'au milieu de la page.
 
 ***  
