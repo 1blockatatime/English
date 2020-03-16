@@ -14,10 +14,10 @@ Level 1 English
 </p>
 </h1>
 <!--# Level 1 English -->
-## [Greetings: What's your name?/How are you?](https://1blockatatime.github.io/English/Greetings_A) [![gtsym](/images/gtsym.PNG){:height="40px"}](https://1blockatatime.github.io/English/Greetings_A)   
-## [Numbers 1-10: How old are you?](https://1blockatatime.github.io/English/Number_A) [![numb2](/images/numb2.PNG){:height="40px"}](https://1blockatatime.github.io/English/Number_A)  
-## [Weather: How's the weather?](https://1blockatatime.github.io/English/Weather_A) [![wsym](/images/wsym.PNG){:height="40px"}](https://1blockatatime.github.io/English/Weather_A)
-## [Toys: What is it?](https://1blockatatime.github.io/English/Toys_A) [![toys](/images/toys.PNG){:height="40px"}](https://1blockatatime.github.io/English/Toys_A)
+## [1. Greetings](https://1blockatatime.github.io/English/Greetings_A) [![gtsym](/images/gtsym.PNG){:height="40px"}](https://1blockatatime.github.io/English/Greetings_A)   
+## [2. Numbers 1-10](https://1blockatatime.github.io/English/Number_A) [![numb2](/images/numb2.PNG){:height="40px"}](https://1blockatatime.github.io/English/Number_A)  
+## [3. Weather](https://1blockatatime.github.io/English/Weather_A) [![wsym](/images/wsym.PNG){:height="40px"}](https://1blockatatime.github.io/English/Weather_A)
+## [4. Toys](https://1blockatatime.github.io/English/Toys_A) [![toys](/images/toys.PNG){:height="40px"}](https://1blockatatime.github.io/English/Toys_A)
 
 ## Colours ![colmix](/images/colmix.png){:height="40px" width="40px"}
 ## Body parts ![body](/images/body.PNG){:height="40px"}
