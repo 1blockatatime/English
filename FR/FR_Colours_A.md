@@ -1,6 +1,6 @@
 ### Colours
 
-[![lvwkcol1](https://1blockatatime.github.io/English/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1_fr](https://1blockatatime.github.io/English/images/lvwkcol1_fr.PNG){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) 
+[![lvwkcol1](https://1blockatatime.github.io/English/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1_fr](https://1blockatatime.github.io/English/images/lvwkcol1_fr.PNG){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj)  
 
 ***
 
@@ -12,7 +12,7 @@
 
 ***  
 
-[![cobi](https://1blockatatime.github.io/English/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [BINGO](http://www.abcya.com/shapes_colors_bingo.htm) Clique sur ‘Colors’ ![cobi2](https://1blockatatime.github.io/English/images/cobi2.PNG){:height="60px"} (Jeu de ABCya)    
+[![cobi](https://1blockatatime.github.io/English/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [![cobi_fr](http://www.abcya.com/shapes_colors_bingo.htm)] ![cobi2](https://1blockatatime.github.io/English/images/cobi2.PNG){:height="60px"}  
 
 ***
 
