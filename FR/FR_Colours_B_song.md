@@ -5,40 +5,26 @@
 ![rainbs_fr](https://1blockatatime.github.io/English/images/rainbs_fr.png){:width="625px"}
 <audio src="https://1blockatatime.github.io/English/audio/V1s2.m4a" controls preload></audio>  
 
-![rainbs_fr2](https://1blockatatime.github.io/English/images/rainbs_fr2.png)
-<audio src="https://1blockatatime.github.io/English/audio/V1s2.m4a" controls preload></audio>  
+![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="70px"}  
 
-![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="70px"} 
-
-***Tâche 1:*** Écoute et pointe vers chaque couleur quand tu entends le nom.  
-***Tâche 2:*** Chante la chanson et pointe vers chaque couleur que tu chantes.  
+![colballtr_fr](https://1blockatatime.github.io/English/images/colballtr_fr.png){:height="50px"}  
 
 ***
 
-![colmix](https://1blockatatime.github.io/English/images/colmix.png) ![rainbbfr](https://1blockatatime.github.io/English/images/rainbbfr.PNG){:height="95px"}
+![colmix](https://1blockatatime.github.io/English/images/colmix.png) ![rainbb_fr](https://1blockatatime.github.io/English/images/rainbb_fr.PNG){:height="95px"}
 
 ***  
 
-***Apprends le deuxième couplet et encore 7 couleurs:***  
-
-Gold and silver and brown and beige, black and white and grey.  
-(Or et argent et brun et beige, noir et blanc et gris.)  
-I can sing a rainbow, sing a rainbow, sing a rainbow today.  
-(Je peux chanter un arc-en-ciel, chanter un arc-en-ciel, chanter un arc-en-ciel aujourd'hui.)  
-
+![colbbbc2b_fr](https://1blockatatime.github.io/English/images/colbbbc2b_fr.png){:width="625px"}
 <audio src="audio/y2_v2.mp3" controls preload></audio>  
 
 ![colbbbc2](https://1blockatatime.github.io/English/images/colbbbc2.png){:height="70px"}  
 
-***Tâche 1:*** Écoute et pointe vers chaque couleur quand tu entends le nom.  
-***Tâche 2:*** Chante la chanson et pointe vers chaque couleur que tu chantes.  
+![colballtr_fr](https://1blockatatime.github.io/English/images/colballtr_fr.png){:height="50px"}  
 
 ***  
 
 ![v2](https://1blockatatime.github.io/English/images/v2.png){:height="210px"} ![rainbbfr](https://1blockatatime.github.io/English/images/rainbbfr.PNG){:height="95px"}  
-
-<!--***
-![colmix2](https://1blockatatime.github.io/English/images/colmix2.png) ![rainbbfr](https://1blockatatime.github.io/English/images/rainbbfr.PNG){:height="95px"}-->
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
