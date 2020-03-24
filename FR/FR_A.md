@@ -31,6 +31,6 @@ Level 1 English
 ### [Topic 13 - Prepositions of Place](https://1blockatatime.github.io/English/FR/FR_Prep_Place_A) [![prep](https://1blockatatime.github.io/English/images/prep.png){:height="30px"}](https://1blockatatime.github.io/English/FR/FR_Prep_Place_A)
 -->
 
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
 
 ***
