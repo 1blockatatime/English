@@ -1,14 +1,14 @@
 ### Colours
 
-[![lvwkcol1](https://1blockatatime.github.io/English/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1bfr](https://1blockatatime.github.io/English/images/lvwkcol1bfr.PNG){:height="35px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) (Actividade de Liveworksheets)  
+[![lvwkcol1](https://1blockatatime.github.io/English/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcol1_fr](https://1blockatatime.github.io/English/images/lvwkcol1_fr.PNG){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) 
 
 ***
 
-[![lvwkcol2](https://1blockatatime.github.io/English/images/lvwkcol2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) [![lvwkcol2bfr](https://1blockatatime.github.io/English/images/lvwkcol2bfr.PNG){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn)  
+[![lvwkcol2](https://1blockatatime.github.io/English/images/lvwkcol2.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn) [![lvwkcol2_fr](https://1blockatatime.github.io/English/images/lvwkcol2_fr.png){:height="85px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Colours_eh11544nn)  
 
 ***  
 
-[![oupcol](https://1blockatatime.github.io/English/images/oupcol.PNG){:height="75px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en) [![oupcolbfr](https://1blockatatime.github.io/English/images/oupcolbfr.PNG){:height="60px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en)  
+[![oupcol](https://1blockatatime.github.io/English/images/oupcol.PNG){:height="75px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en) [![oupcol_fr](https://1blockatatime.github.io/English/images/oupcol_fr.png){:height="60px"}](https://elt.oup.com/student/happyhouse/level2/games_02/games_02_02/games_unit02_02?cc=tr&selLanguage=en)  
 
 ***  
 
