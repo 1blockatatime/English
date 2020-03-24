@@ -31,19 +31,15 @@
 
 ***  
 
-[![dewc](https://1blockatatime.github.io/English/images/dewc.png){:height="75px"}](https://www.youtube.com/watch?v=YyFLBTTAbSE) [What colour is it?](https://www.youtube.com/watch?v=YyFLBTTAbSE) (Chanson de Dream English)  
+<iframe width="280" height="158" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-***Question:*** **'What colour is it?' (C'est de quelle couleur?)**  
-***Answer:*** **'It's ..*colour*.. .' (C'est ..*couleur*)**
+![dewcb](https://1blockatatime.github.io/English/images/dewcb_fr.png){:height="55px"}  
 
 ***  
 
-[![meco](https://1blockatatime.github.io/English/images/meco.PNG){:height="75px"}](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [Jeu de memoire](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) (Jeu de ESL Games Plus)    
-
-<!--#### ![sing](https://1blockatatime.github.io/English/images/sing.png){:height="40px"} [Song/Canção](https://1blockatatime.github.io/English/FR/FR_Colours_A_song)
-#### ![silh_game](https://1blockatatime.github.io/English/images/silh_game.jpg){:height="40px"} [Games/Jogos](https://1blockatatime.github.io/English/FR/FR_Colours_A_g)-->
+[![meco](https://1blockatatime.github.io/English/images/meco.PNG){:height="75px"}](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![mecob](https://1blockatatime.github.io/English/images/meco_fr.png)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
 
 ***
