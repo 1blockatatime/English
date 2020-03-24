@@ -2,10 +2,12 @@
 
 [![rainb](https://1blockatatime.github.io/English/images/rainb.png){:height="75px"}](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) [I can sing a rainbow](https://www.youtube.com/watch?v=y7nE4ADGaOc?start=0&end=33) (Chanson  traditionelle de AprenderYdivertirse)  
 
-Red and yellow and pink and green, orange and purple and blue.  
+![rainbs_fr](https://1blockatatime.github.io/English/images/rainbs_fr.png)  
+
+<!--Red and yellow and pink and green, orange and purple and blue.  {:height="70px"}
 (Rouge et jaune et rose et vert, orange et violet et bleu.)   
 I can sing a rainbow, sing a rainbow, sing a rainbow too.  
-(Je peux chanter un arc-en-ciel, chanter un arc-en-ciel, chanter un arc-en-ciel aussi.)  
+(Je peux chanter un arc-en-ciel, chanter un arc-en-ciel, chanter un arc-en-ciel aussi.) --> 
 
 <!--![listen](https://1blockatatime.github.io/English/images/listen.png){:height="35px"} + ![sing](/sing.PNG){:height="35px"}:-->
 <audio src="audio/V1s2.m4a" controls preload></audio>  
