@@ -27,6 +27,6 @@
 ![v2](https://1blockatatime.github.io/English/images/v2.png){:height="210px"} ![rainbb_fr](https://1blockatatime.github.io/English/images/rainbb_fr.png){:height="120px"}  
 
 ***
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
 
 ***
