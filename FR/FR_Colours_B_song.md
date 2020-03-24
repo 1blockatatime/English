@@ -2,7 +2,7 @@
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/y7nE4ADGaOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-![rainbs_fr](https://1blockatatime.github.io/English/images/rainbs_fr.png)
+![rainbs_fr](https://1blockatatime.github.io/English/images/rainbs_fr.png){:width="625px"}
 <audio src="https://1blockatatime.github.io/English/audio/V1s2.m4a" controls preload></audio>  
 
 ![rainbs_fr2](https://1blockatatime.github.io/English/images/rainbs_fr2.png)
