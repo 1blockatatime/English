@@ -49,6 +49,6 @@ Topic 14 - Language for playing games...
 ## [Topic 13 - Shapes](https://1blockatatime.github.io/English/FR/FR_Shapes_B) [![shape](https://1blockatatime.github.io/English/images/shape.PNG){:height="30px"}](https://1blockatatime.github.io/English/FR/FR_Shapes_B)
 ## [Topic 12 - Classroom instructions](https://1blockatatime.github.io/English/FR/FR_Classroom_I_B) [![clin](https://1blockatatime.github.io/English/images/clin.PNG){:height="30px"}](https://1blockatatime.github.io/English/FR/FR_Classroom_I_B)-->
 
-[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
 
 ***
