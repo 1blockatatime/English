@@ -7,7 +7,7 @@
 
 ![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="70px"}  
 
-![colballtrb_fr](https://1blockatatime.github.io/English/images/colballtr_fr.png){:height="50px"}  
+![colballtrb_fr](https://1blockatatime.github.io/English/images/colballtrb_fr.png){:height="50px"}  
 
 ***
 
@@ -20,7 +20,7 @@
 
 ![colbbbc2](https://1blockatatime.github.io/English/images/colbbbc2.png){:height="70px"}  
 
-![colballtrb_fr](https://1blockatatime.github.io/English/images/colballtr_fr.png){:height="50px"}  
+![colballtrb_fr](https://1blockatatime.github.io/English/images/colballtrb_fr.png){:height="50px"}  
 
 ***  
 
