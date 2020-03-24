@@ -7,11 +7,11 @@
 
 ![colballtr](https://1blockatatime.github.io/English/images/colballtr.png){:height="70px"}  
 
-![colballtr_fr](https://1blockatatime.github.io/English/images/colballtr_fr.png){:height="50px"}  
+![colballtrb_fr](https://1blockatatime.github.io/English/images/colballtr_fr.png){:height="50px"}  
 
 ***
 
-![colmix](https://1blockatatime.github.io/English/images/colmix.png) ![rainbb_fr](https://1blockatatime.github.io/English/images/rainbb_fr.png){:height="95px"}
+![colmix](https://1blockatatime.github.io/English/images/colmix.png) ![rainbb_fr](https://1blockatatime.github.io/English/images/rainbb_fr.png){:height="120px"}
 
 ***  
 
@@ -20,11 +20,11 @@
 
 ![colbbbc2](https://1blockatatime.github.io/English/images/colbbbc2.png){:height="70px"}  
 
-![colballtr_fr](https://1blockatatime.github.io/English/images/colballtr_fr.png){:height="50px"}  
+![colballtrb_fr](https://1blockatatime.github.io/English/images/colballtr_fr.png){:height="50px"}  
 
 ***  
 
-![v2](https://1blockatatime.github.io/English/images/v2.png){:height="210px"} ![rainbb_fr](https://1blockatatime.github.io/English/images/rainbbfr.png){:height="95px"}  
+![v2](https://1blockatatime.github.io/English/images/v2.png){:height="210px"} ![rainbb_fr](https://1blockatatime.github.io/English/images/rainbb_fr.png){:height="120px"}  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
