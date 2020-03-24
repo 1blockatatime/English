@@ -1,6 +1,6 @@
 ### Colours
 
-[![lvwkcol1](https://1blockatatime.github.io/English/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcolb](https://1blockatatime.github.io/English/images/lvwkcol1_fr.PNG){:height="65px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj)  
+[![lvwkcol1](https://1blockatatime.github.io/English/images/lvwkcol1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj) [![lvwkcolb](https://1blockatatime.github.io/English/images/lvwkcol1_fr.PNG){:height="70px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Colours/Listen_and_Repeat_the_colours_vg3506tj)  
 
 ***
 
@@ -12,7 +12,7 @@
 
 ***  
 
-[![cobi](https://1blockatatime.github.io/English/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [![cobib](https://1blockatatime.github.io/English/images/cobi_fr.PNG){:height="55px"}](http://www.abcya.com/shapes_colors_bingo.htm)] ![cobi2](https://1blockatatime.github.io/English/images/cobi2.PNG){:height="60px"}  
+[![cobi](https://1blockatatime.github.io/English/images/cobi.PNG){:height="75px"}](http://www.abcya.com/shapes_colors_bingo.htm) [![cobib](https://1blockatatime.github.io/English/images/cobi_fr.png){:height="55px"}](http://www.abcya.com/shapes_colors_bingo.htm) ![cobi2](https://1blockatatime.github.io/English/images/cobi2.PNG){:height="60px"}  
 
 ***
 
@@ -33,11 +33,11 @@
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-![dewcb](https://1blockatatime.github.io/English/images/dewcb_fr.png){:height="55px"}  
+![dewcb](https://1blockatatime.github.io/English/images/dewc_fr.png){:height="55px"}  
 
 ***  
 
-[![meco](https://1blockatatime.github.io/English/images/meco.PNG){:height="75px"}](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![mecob](https://1blockatatime.github.io/English/images/meco_fr.png)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+[![meco](https://1blockatatime.github.io/English/images/meco.PNG){:height="75px"}](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![mecob](https://1blockatatime.github.io/English/images/meco_fr.png){:height="55px"}](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
