@@ -22,7 +22,7 @@
 
 ***
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_2WAwT9cKAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![colq2](https://1blockatatime.github.io/English/images/colq2_fr.png){:height="55px"}   
+<iframe width="280" height="158" src="https://www.youtube.com/embed/_2WAwT9cKAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ![colq2](https://1blockatatime.github.io/English/images/colq2_fr.png){:height="55px"}   
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
