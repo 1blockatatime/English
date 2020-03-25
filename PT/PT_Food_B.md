@@ -1,5 +1,5 @@
 ## Food
-![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="50px"}
+![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="60px"}
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YC1HfRDWwQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -7,9 +7,9 @@
 
 [![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Food.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="75px"}](https://www.digitaldialects.com/English/Food.htm)  
 
-#### Language and additional vocabulary
+![talk](https://1blockatatime.github.io/English/images/talk_pt.png){:height="60px"}
 
-![fdq1](https://1blockatatime.github.io/English/images/fdq1_pt.png){:height="55px"}
+![fdq1](https://1blockatatime.github.io/English/images/fdq1_pt.png){:height="70px"}
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/aT9tORbbvsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -23,7 +23,7 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ddDN30evKPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-769il9yYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/f-769il9yYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ***
 [![home](/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
