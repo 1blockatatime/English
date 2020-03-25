@@ -1,6 +1,6 @@
 ### Colours - Language structures
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/YyFLBTTAbSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ![dewcb](https://1blockatatime.github.io/English/images/dewc_fr.png){:height="55px"}   
 
@@ -15,17 +15,17 @@
 ![colq](https://1blockatatime.github.io/English/images/colq_fr.png){:height="55px"}   
 
 ***
-<iframe width="280" height="158" src="https://www.youtube.com/embed/1jv0Gx_q_OU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/1jv0Gx_q_OU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ![cola](https://1blockatatime.github.io/English/images/cola_fr.png){:height="35px"}   
 
 ***
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/_2WAwT9cKAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/_2WAwT9cKAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[![gae6b](https://1blockatatime.github.io/English/images/gae6_fr.png){:height="55px"}](https://www.youtube.com/watch?v=_2WAwT9cKAk)  
+[![gae6b](https://1blockatatime.github.io/English/images/gae6_fr.png){:height="40px"}](https://www.youtube.com/watch?v=_2WAwT9cKAk)  
 
-![colq2](https://1blockatatime.github.io/English/images/colq2_fr.png){:height="40px"}   
+![colq2](https://1blockatatime.github.io/English/images/colq2_fr.png){:height="55px"}   
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
