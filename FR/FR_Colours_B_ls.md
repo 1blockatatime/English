@@ -25,7 +25,7 @@
 
 [![gae6b](https://1blockatatime.github.io/English/images/gae6_fr.png){:height="55px"}](https://www.youtube.com/watch?v=_2WAwT9cKAk)  
 
-![colq2](https://1blockatatime.github.io/English/images/colq2_fr.png){:height="55px"}   
+![colq2](https://1blockatatime.github.io/English/images/colq2_fr.png){:height="40px"}   
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
