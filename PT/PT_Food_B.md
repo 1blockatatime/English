@@ -5,7 +5,7 @@
 
 [![ddfd1](https://1blockatatime.github.io/English/images/ddfd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Food.htm) [![ddfd1b](https://1blockatatime.github.io/English/images/ddfd1_pt.png){:height="85px"}](https://www.digitaldialects.com/English/Food.htm)  
 
-[![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Food.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="85px"}](https://www.digitaldialects.com/English/Food.htm) 
+[![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Fruit.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="85px"}](https://www.digitaldialects.com/English/Fruit.htm) 
 
 [![lvwkfd1](https://1blockatatime.github.io/English/images/lvwkfd1.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_Read_and_choose_pq38361qp) [![lvwkfd1b](https://1blockatatime.github.io/English/images/lvwkfd1_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_Read_and_choose_pq38361qp)   
 
