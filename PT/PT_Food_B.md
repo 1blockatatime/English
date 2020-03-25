@@ -35,7 +35,7 @@
 
 ![chall](https://1blockatatime.github.io/English/images/chall_pt.png){:height="60px"}
 
-[![eexfd1](https://1blockatatime.github.io/English/images/eexfd1.PNG){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a) [![eexfd1b](https://1blockatatime.github.io/English/images/eexfd1_pt.png){:height="60px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a)   
+[![eexfd1](https://1blockatatime.github.io/English/images/eexfd1.PNG){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a) [![eexfd1b](https://1blockatatime.github.io/English/images/eexfd1_pt.png){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a)   
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
