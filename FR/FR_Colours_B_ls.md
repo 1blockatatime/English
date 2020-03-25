@@ -21,7 +21,9 @@
 
 ***
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/_2WAwT9cKAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> [![gae6b](https://1blockatatime.github.io/English/images/gae6_fr.png){:height="55px"}](https://www.youtube.com/watch?v=_2WAwT9cKAk)  
+<iframe width="280" height="158" src="https://www.youtube.com/embed/_2WAwT9cKAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[![gae6b](https://1blockatatime.github.io/English/images/gae6_fr.png){:height="55px"}](https://www.youtube.com/watch?v=_2WAwT9cKAk)  
 
 ![colq2](https://1blockatatime.github.io/English/images/colq2_fr.png){:height="55px"}   
 
