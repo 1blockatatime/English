@@ -6,7 +6,7 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/lW5TXrKbsq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![lvwkfd7b](https://1blockatatime.github.io/English/images/lvwkfd7b_pt.PNG){:height="95px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_and_drinks_xb1067pl)   
+[![lvwkfd7b](https://1blockatatime.github.io/English/images/lvwkfd7b_pt.png){:height="90px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_and_drinks_xb1067pl)   
 
 [![ddfd1](https://1blockatatime.github.io/English/images/ddfd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Food.htm) [![ddfd1b](https://1blockatatime.github.io/English/images/ddfd1_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Food.htm)  
 
