@@ -9,12 +9,10 @@ Para cada imagem, consigo apontar e dizer o nome:
 
 ### 2. Eu consigo dizer o que gosto e o que não gosto.
 
-![lkckb](https://1blockatatime.github.io/English/images/lkck_pt.png){:height="50px"}  
+![lkckb](https://1blockatatime.github.io/English/images/lkck_pt.png){:height="50px"} ![lkck](https://1blockatatime.github.io/English/images/lkck.png){:height="40px"}  
 
-<audio src="https://1blockatatime.github.io/English/audio/ilikecake.mp3" controls preload></audio>![lkck](https://1blockatatime.github.io/English/images/lkck.png){:height="70px"}   
+<audio src="https://1blockatatime.github.io/English/audio/ilikecake.mp3" controls preload></audio>   
 
-![dlkchb](https://1blockatatime.github.io/English/images/dlkch_pt.png){:height="50px"}  
+![dlkchb](https://1blockatatime.github.io/English/images/dlkch_pt.png){:height="50px"} ![dlkch](https://1blockatatime.github.io/English/images/dlkch.png){:height="40px"}  
 
-![dlkch](https://1blockatatime.github.io/English/images/dlkch.png){:height="70px"} <audio src="https://1blockatatime.github.io/English/audio/idontlikechoc.mp3" controls preload></audio>  
-
-
+<audio src="https://1blockatatime.github.io/English/audio/idontlikechoc.mp3" controls preload></audio>  
