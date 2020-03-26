@@ -16,3 +16,18 @@ Para cada imagem, consigo apontar e dizer o nome:
 ![dlkchb](https://1blockatatime.github.io/English/images/dlkch_pt.png){:height="50px"} ![dlkch](https://1blockatatime.github.io/English/images/dlkch.png){:height="40px"}  
 
 <audio src="https://1blockatatime.github.io/English/audio/idontlikechoc.mp3" controls preload></audio>  
+
+### 3. Eu consigo perguntar aos outros se gostam ou não de um certo alimento, e responder se me perguntam a mim.  
+
+![dylpao](https://1blockatatime.github.io/English/images/dylpao_pt.png){:height="50px"} ![bread](https://1blockatatime.github.io/English/images/bread.png){:height="40px"}  
+
+<audio src="https://1blockatatime.github.io/English/audio/bread.mp3" controls preload></audio>   
+
+![yid](https://1blockatatime.github.io/English/images/yid_pt.png){:height="50px"} ![tick](https://1blockatatime.github.io/English/images/tick.png){:height="30px"}  
+
+<audio src="https://1blockatatime.github.io/English/audio/yid.mp3" controls preload></audio>  
+
+![nid](https://1blockatatime.github.io/English/images/nid_pt.png){:height="50px"} ![tick](https://1blockatatime.github.io/English/images/cross.png){:height="30px"}  
+
+<audio src="https://1blockatatime.github.io/English/audio/nid.mp3" controls preload></audio>  
+
