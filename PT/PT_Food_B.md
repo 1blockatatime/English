@@ -1,6 +1,6 @@
 ![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="60px"} ![foodt](https://1blockatatime.github.io/English/images/foodt.png){:height="60px"}![food](https://1blockatatime.github.io/English/images/food.PNG){:height="40px"} [![target](https://1blockatatime.github.io/English/images/target.png){:height="40px"}](https://1blockatatime.github.io/English/PT/PT_ObjFood_B)
 
-![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="55px"} ![foodt](https://1blockatatime.github.io/English/images/foodt.png){:height="40px"}   
+![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="45px"} ![fdt2](https://1blockatatime.github.io/English/images/fdt2_pt.png){:height="45px"}   
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YC1HfRDWwQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -10,11 +10,11 @@
 
 [![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Fruit.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Fruit.htm) 
 
-![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="30px"}  
+![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="45px"}  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/BilStuLzW6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="30px"} ![fruitt](https://1blockatatime.github.io/English/images/fruitt.png)
+![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="45px"} ![ftt2](https://1blockatatime.github.io/English/images/ftt2_pt.png){:height="45px"}
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/zywh6LqC6dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
