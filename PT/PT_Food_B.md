@@ -1,4 +1,4 @@
-![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="60px"} ![foodt](https://1blockatatime.github.io/English/images/foodt.png){:height="60px"}![food](https://1blockatatime.github.io/English/images/food.PNG){:height="40px"} ![target](https://1blockatatime.github.io/English/images/target.png){:height="40px"}  
+![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="60px"} ![foodt](https://1blockatatime.github.io/English/images/foodt.png){:height="60px"}![food](https://1blockatatime.github.io/English/images/food.PNG){:height="40px"} [![target](https://1blockatatime.github.io/English/images/target.png){:height="40px"}](https://1blockatatime.github.io/English/PT/PT_ObjFood_B)
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YC1HfRDWwQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -22,7 +22,7 @@
 
 ![tpc](https://1blockatatime.github.io/English/images/tpc_pt.png){:height="60px"}  
 
-![circ_like_plate](https://1blockatatime.github.io/English/images/circ_like_plate.gif){:height="160px"} ![circ_dont_plate](https://1blockatatime.github.io/English/images/circ_dont_plate.gif){:height="160px"}  
+![circ_like_plate](https://1blockatatime.github.io/English/images/circ_like_plate.gif){:height="180px"} ![circ_dont_plate](https://1blockatatime.github.io/English/images/circ_dont_plate.gif){:height="180px"}  
 
 ![fdin1](https://1blockatatime.github.io/English/images/fdin1_pt.png){:height="60px"}  
 
