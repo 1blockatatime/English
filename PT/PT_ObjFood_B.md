@@ -2,7 +2,7 @@
 
 ### 1. Eu conheço os nomes para vários alimentos em inglês
 
-Para cada imagem, consigo apontar e dizer o nome:  
+![ptsay](https://1blockatatime.github.io/English/images/ptsay_pt.png){:height="30px"}  
 
 ![hamburger](https://1blockatatime.github.io/English/images/hamb.png){:height="65px"} ![chips](https://1blockatatime.github.io/English/images/chips.png){:height="65px"} ![chicken](https://1blockatatime.github.io/English/images/chicken.png){:height="65px"} ![pizza](https://1blockatatime.github.io/English/images/pizza.png){:height="65px"} ![bread](https://1blockatatime.github.io/English/images/bread.png){:height="65px"} ![spaghetti](https://1blockatatime.github.io/English/images/spaghetti.png){:height="65px"}  
 ![egg](https://1blockatatime.github.io/English/images/egg.png){:height="65px"} ![cake](https://1blockatatime.github.io/English/images/cake.png){:height="65px"} ![chocolate](https://1blockatatime.github.io/English/images/chocolate.png){:height="65px"} ![icecream](https://1blockatatime.github.io/English/images/icecream.png){:height="65px"} ![apple](https://1blockatatime.github.io/English/images/apple.png){:height="65px"} ![banana](https://1blockatatime.github.io/English/images/banana.png){:height="65px"} ![orange](https://1blockatatime.github.io/English/images/orange.png){:height="65px"} ![strawberry](https://1blockatatime.github.io/English/images/strawberry.png){:height="65px"}   
@@ -35,3 +35,5 @@ Para cada imagem, consigo apontar e dizer o nome:
 
 <audio src="https://1blockatatime.github.io/English/audio/nid.mp3" controls preload></audio>  
 
+***
+[![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
