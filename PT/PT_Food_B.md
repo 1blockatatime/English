@@ -1,10 +1,10 @@
 ![vocab](https://1blockatatime.github.io/English/images/vocab_pt.png){:height="60px"} ![foodt](https://1blockatatime.github.io/English/images/foodt.png){:height="60px"}![food](https://1blockatatime.github.io/English/images/food.PNG){:height="40px"} [![target](https://1blockatatime.github.io/English/images/target.png){:height="40px"}](https://1blockatatime.github.io/English/PT/PT_ObjFood_B)
 
-![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="30px"} ![foodt](https://1blockatatime.github.io/English/images/foodt.png)   
+![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="55px"} ![foodt](https://1blockatatime.github.io/English/images/foodt.png){:height="40px"}   
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YC1HfRDWwQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lW5TXrKbsq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/lW5TXrKbsq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 [![ddfd1](https://1blockatatime.github.io/English/images/ddfd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Food.htm) [![ddfd1b](https://1blockatatime.github.io/English/images/ddfd1_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Food.htm)  
 
