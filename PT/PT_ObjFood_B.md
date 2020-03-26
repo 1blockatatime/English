@@ -11,10 +11,10 @@ Para cada imagem, consigo apontar e dizer o nome:
 
 ![lkckb](https://1blockatatime.github.io/English/images/lkck_pt.png){:height="50px"}  
 
-<audio src="audio/ilikecake.m4a" controls preload><https://1blockatatime.github.io/English/audio> ![lkck](https://1blockatatime.github.io/English/images/lkck.png){:height="70px"}   
+<audio src="https://1blockatatime.github.io/English/audio/ilikecake.m4a" controls preload><https://1blockatatime.github.io/English/audio> ![lkck](https://1blockatatime.github.io/English/images/lkck.png){:height="70px"}   
 
 ![dlkchb](https://1blockatatime.github.io/English/images/dlkch_pt.png){:height="50px"}  
 
-![dlkch](https://1blockatatime.github.io/English/images/dlkch.png){:height="70px"} <audio src="audio/idontlikechoc.m4a" controls preload><https://1blockatatime.github.io/English/audio>  
+![dlkch](https://1blockatatime.github.io/English/images/dlkch.png){:height="70px"} <audio src="https://1blockatatime.github.io/English/audio/idontlikechoc.m4a" controls preload><https://1blockatatime.github.io/English/audio>  
 
 
