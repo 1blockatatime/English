@@ -11,7 +11,7 @@ Para cada imagem, consigo apontar e dizer o nome:
 
 ![lkckb](https://1blockatatime.github.io/English/images/lkck_pt.png){:height="50px"}  
 
-![lkck](https://1blockatatime.github.io/English/images/lkck.png){:height="70px"} <audio src="audio/ilikecake.m4a" controls preload><https://1blockatatime.github.io/English/audio>  
+<audio src="audio/ilikecake.m4a" controls preload><https://1blockatatime.github.io/English/audio> ![lkck](https://1blockatatime.github.io/English/images/lkck.png){:height="70px"}   
 
 ![dlkchb](https://1blockatatime.github.io/English/images/dlkch_pt.png){:height="50px"}  
 
