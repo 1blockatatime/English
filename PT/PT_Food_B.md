@@ -18,7 +18,7 @@
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/zywh6LqC6dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="30px"}  
+![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="45px"}  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/zFGF23RbzaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
