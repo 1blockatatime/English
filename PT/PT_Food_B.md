@@ -8,8 +8,6 @@
 
 [![ddfd1](https://1blockatatime.github.io/English/images/ddfd1.PNG){:height="75px"}](https://www.digitaldialects.com/English/Food.htm) [![ddfd1b](https://1blockatatime.github.io/English/images/ddfd1_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Food.htm)  
 
-[![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Fruit.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Fruit.htm) 
-
 ![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="45px"}  
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/BilStuLzW6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -17,6 +15,10 @@
 ![lisrpt](https://1blockatatime.github.io/English/images/lisrpt_pt.png){:height="45px"} ![ftt2](https://1blockatatime.github.io/English/images/ftt2_pt.png){:height="45px"}
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/zywh6LqC6dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![ddfd5](https://1blockatatime.github.io/English/images/ddfd5.PNG){:height="75px"}](https://www.digitaldialects.com/English/Fruit.htm) [![ddfd5b](https://1blockatatime.github.io/English/images/ddfd5_pt.png){:height="90px"}](https://www.digitaldialects.com/English/Fruit.htm)  
+
+[![ftlis](https://1blockatatime.github.io/English/images/ftlis.PNG){:height="75px"}](http://en.ver-taal.com/voc_food1_audio.htm) [![ftlisb](https://1blockatatime.github.io/English/images/ftlis_pt.png){:height="75px"}](http://en.ver-taal.com/voc_food1_audio.htm)  
 
 ![lkgu](https://1blockatatime.github.io/English/images/lkgu_pt.png){:height="45px"}  
 
@@ -74,9 +76,9 @@
 
 ![chall](https://1blockatatime.github.io/English/images/chall_pt.png){:height="60px"}  
 
-[![lvwkfd8](https://1blockatatime.github.io/English/images/lvwkfd8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_multiple_choice_ik7569ip) [![lvwkfd8b](https://1blockatatime.github.io/English/images/lvwkfd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_multiple_choice_ik7569ip)
+[![lvwkfd8](https://1blockatatime.github.io/English/images/lvwkfd8.PNG){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_multiple_choice_ik7569ip)[![lvwkfd8b](https://1blockatatime.github.io/English/images/lvwkfd8_pt.png){:height="75px"}](https://www.liveworksheets.com/worksheets/en/English_as_a_Second_Language_(ESL)/Food/Food_-_multiple_choice_ik7569ip)  
 
-[![eexfd1](https://1blockatatime.github.io/English/images/eexfd1.PNG){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a) [![eexfd1b](https://1blockatatime.github.io/English/images/eexfd1_pt.png){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a)   
+[![eexfd1](https://1blockatatime.github.io/English/images/eexfd1.PNG){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a) [![eexfd1b](https://1blockatatime.github.io/English/images/eexfd1_pt.png){:height="75px"}](https://www.englishexercises.org/makeagame/viewgame.asp?id=9372#a)  
 
 ***
 [![home](https://1blockatatime.github.io/English/images/home.png){:height="50px"}](https://1blockatatime.github.io/English) [Return to the English Homepage](https://1blockatatime.github.io/English)
