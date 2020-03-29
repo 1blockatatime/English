@@ -10,6 +10,8 @@ document.write(mytest[pt]);
 
 document.write(tiago);
 
-document.write(1+2);
+document.write('\n');
+
+document.write(2+2);
 
 </script>
