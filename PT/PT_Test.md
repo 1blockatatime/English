@@ -11,5 +11,5 @@ var mytest={en : "this is english", pt : "isto é português"};
 document.write(tiago);
 
 document.write(1+2);
-
+1212
 </script>
