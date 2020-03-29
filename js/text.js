@@ -1,5 +1,5 @@
 var allmytext = {
-	rainbb:{en: "rainbow", pt: "arco-iris"},
-  rainbs:{en: "rainbow2", pt: "arco-iris2"}
+rainbb:{pt: "arco-iris", fr: "arc en ciel"},
+wynb:{pt: "Hello hello, what’s your name? (Chanson de Maple Leaf Learning)"}
 };
 
