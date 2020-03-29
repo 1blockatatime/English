@@ -5,7 +5,7 @@ This is a test 11.
 var tiago="sefnsaf nn";  
 var mytest={en : "this is english", pt : "isto é português"};
 
-document.write('<p>' + mytest["en"] );
+document.write(lang);
 
 document.write('<p>' +  mytest["pt"]);
 
