@@ -1,7 +1,8 @@
 This is a test 13.
 
 | :--- | :--- |
-| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | document.write(text["wynb"][lang]) |
+| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <script>
+document.write(text["wynb"][lang])</script> |
 | c1r2 | c2r2  |
 
 <h2> 
