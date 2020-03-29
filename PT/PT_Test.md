@@ -1,8 +1,14 @@
 This is a test 12.
-***<script>
+
+<h2> 
+<p>
+<script>
 document.write(allmytext["rainbb"][lang]);
-</script>***
-<--
+</script>
+</p>
+</h2>
+
+<!--
 var tiago="sefnsaf nn";  
 var mytest={en : "this is english", pt : "isto é português"};
 document.write(lang);
