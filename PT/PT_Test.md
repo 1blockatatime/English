@@ -1,8 +1,8 @@
 This is a test 13.
 
-| :--- | :--- | :--- |
-| c1r1 | c2r1 | c3r1 |
-| c1r2 | c2r2  | c3r2 |
+| :--- | :--- |
+| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | document.write(text["wynb"][lang]) |
+| c1r2 | c2r2  |
 
 <h2> 
 <p>
