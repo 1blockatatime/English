@@ -1,10 +1,20 @@
 This is a test 13.
 
 </script>
-
 | :--- | :--- |
-| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <script>
-document.write(text["wynb"][lang])</script> |
+| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <script>document.write(text["wynb"][lang])</script> |  
+
+<div class="container-lg clearfix">
+  <div class="col-4 float-left border p-4">
+    My column
+  </div>
+  <div class="col-4 float-left border p-4">
+    Looks better
+  </div>
+  <div class="col-4 float-left border p-4">
+    Than your column
+  </div>
+</div>  
 
 <div class="d-flex flex-column flex-md-row flex-items-center flex-md-items-center">
   <div class="col-2 d-flex flex-items-center flex-items-center flex-md-items-start">
