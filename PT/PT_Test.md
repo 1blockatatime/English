@@ -1,4 +1,4 @@
-This is a test 17.
+This is a test 18.
 
 <p> <a id="wyn1" href="https://www.youtube.com/watch?v=Uv1JkBL5728">What's your name?</a>  <span id="wyn1bz"></span> </p>
 <script>
@@ -7,7 +7,7 @@ document.getElementById("wyn1bz").innerHTML = allmytext["wyn1b"][lang];
 
 
 | :--- | :--- |
-| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <script>document.write(allmytext["wyn1b"][lang]);</script> |  
+| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <script>document.write(allmytext["wyn1b"][lang]);</script> </br> <script>document.write(allmytext["wyn1c"][lang])</script> |  
 
 
 <a href="https://www.youtube.com/watch?v=Uv1JkBL5728"><script>document.write(allmytext["wyn1b"][lang])</script></a><script>document.write(allmytext["wyn1c"][lang])</script>;  
