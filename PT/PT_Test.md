@@ -13,7 +13,7 @@ document.getElementById("wyn1bz").innerHTML = allmytext["wyn1b"][lang];
 <table >
   <tbody>
     <tr>
-      <td><iframe width="560" height="315" src="https://www.youtube.com/embed/Uv1JkBL5728" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+      <td><iframe width="220" height="124" src="https://www.youtube.com/embed/Uv1JkBL5728" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
       <td><a href="https://www.youtube.com/watch?v=Uv1JkBL5728"><script>document.write(allmytext["wyn1b"][lang]);</script></a> <br /> <script>document.write(allmytext["wyn1c"][lang])</script></td>
     </tr>
   </tbody>
