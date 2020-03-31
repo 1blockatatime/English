@@ -7,10 +7,10 @@ document.getElementById("wyn1bz").innerHTML = allmytext["wyn1b"][lang];
 
 
 | :--- | :--- |
-| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <script>document.write(allmytext["wyn1b"][lang]);</script> <br> <script>document.write(allmytext["wyn1c"][lang])</script> |  
+| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <a href="https://www.youtube.com/watch?v=Uv1JkBL5728"><script>document.write(allmytext["wyn1b"][lang]);</script> <br> <script>document.write(allmytext["wyn1c"][lang])</script> |  
 
 
-<a href="https://www.youtube.com/watch?v=Uv1JkBL5728"><script>document.write(allmytext["wyn1b"][lang]);</script></a><script>document.write(allmytext["wyn1c"][lang]);</script>;  
+<a href="https://www.youtube.com/watch?v=Uv1JkBL5728"><script>document.write(allmytext["wyn1b"][lang]);</script></a><script>document.write(allmytext["wyn1c"][lang]);</script>  
 
 <h2> 
 <p>
