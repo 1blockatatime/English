@@ -1,8 +1,8 @@
-This is a test 15.
+This is a test 16.
 
-<p> <a id="wyn1" href="https://www.youtube.com/watch?v=Uv1JkBL5728">What's your name?</a>  <span id="wyn1b"></span> </p>
+<p> <a id="wyn1" href="https://www.youtube.com/watch?v=Uv1JkBL5728">What's your name?</a>  <span id="wyn1bz"></span> </p>
 <script>
-document.getElementById("wyn1b").innerHTML = allmytext["wyn1b"][lang];
+document.getElementById("wyn1bz").innerHTML = allmytext["wyn1b"][lang];
 </script>
 
 
