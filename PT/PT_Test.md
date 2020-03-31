@@ -1,7 +1,9 @@
 This is a test 13.
 
 | :--- | :--- |
-| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <script>document.write(text["wynb"][lang])</script> |  
+| [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <script>document.write(allmytext["wyn1b"][lang])</script> |  
+
+<script><a href="https://www.youtube.com/watch?v=Uv1JkBL5728">document.write(allmytext["wyn1b"][lang])</a> document.write(allmytext["wyn1c"][lang])</script>
 
 <script>
 <div class="container-lg clearfix">
