@@ -9,7 +9,8 @@ document.getElementById("wyn1bz").innerHTML = allmytext["wyn1b"][lang];
 | :--- | :--- |
 | [![wyn](https://1blockatatime.github.io/English/images/wyn1.png){:height="75px"}](https://www.youtube.com/watch?v=Uv1JkBL5728) | <a href="https://www.youtube.com/watch?v=Uv1JkBL5728"><script>document.write(allmytext["wyn1b"][lang]);</script></a> <br> <script>document.write(allmytext["wyn1c"][lang])</script> |  
 
-<table border="0" cellpadding="0" cellspacing="0">
+
+<table >
   <tbody>
     <tr>
       <td><a href="https://www.youtube.com/watch?v=Uv1JkBL5728"><img src="https://1blockatatime.github.io/English/images/wyn1.png" alt="wyn" height="75px" /></a></td>
@@ -38,3 +39,5 @@ document.write(tiago);
 document.write('<p>');
 document.write(2+2);
 -->
+
+border="0" cellpadding="0" cellspacing="0"
