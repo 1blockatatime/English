@@ -1,3 +1,5 @@
+![constr2](https://1blockatatime.github.io/English/images2/constr2.png){:height="50px"}  
+
 #### Oxford Dolphin Readers
 
 **How’s the weather?**  
@@ -13,9 +15,8 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-kZxPyK3MV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Baby Animals**  
-
 ***puppy - cachorinho; cute - giro; lamb - cordeiro; long - comprido; cub - filhote; to like - gostar; to play - brincar; to love - amar***  
-Nota: embora o texto escrito usa a estrutura mais comun no Reino Unido para exprimir possessão no presente: have got/has got - o leitor troca para as expressão mais simples, mais comun nos Estados Unidos: have/has  
+Nota: embora o texto escrito usa a estrutura mais comun no Reino Unido para exprimir possessão no presente: have got/has got - o leitor troca para as expressão mais simples, mais comun nos Estados Unidos: have/has.  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/QuAZisB3_W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Doctor, Doctor**  
