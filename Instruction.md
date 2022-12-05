@@ -16,7 +16,7 @@ Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensã
 
 **Required materials/access:** Students need up to 40 sheets of A4 paper (any sheets with 1 blank side appropriate), a pencil, an eraser and a box for storing word cards and mini-books; ideally a PC or laptop, internet connection, access to Microsoft Teams/Zoom and a quiet place to participate in the class. Markers/coloured pencils optional.  
 **Group size:** 4 students (min) - 6 students (max)  
-**Fees include:** 22 weekly group sessions (Jan-Jun 2023) + an additional 5-min individual weekly reading session  
+**Fees include:** 22 weekly group sessions (Jan-Jun 2023) + additional individual weekly reading session  
 **Group session length:** 50min (4 students); 55min (5 students); 60 minutes (6 students)  
 **Important note:** Classes are billed by a company and are not considered education expenses for tax purposes  
 **Contact:** For more information, please contact c21educator@gmail.com  
@@ -37,7 +37,7 @@ Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensã
 
 **Materiais necessários/acesso:** Alunos precisão de até 40 folhas de papel A4 (quaisquer folhas com um lado não utilizado serve), um lápis, uma borracha e uma caixa para guardar os mini-livros e outros materiais; idealmente um PC ou laptop, ligação à internet, acesso a Microsoft Teams/Zoom e um lugar sem barulho para participar nas aulas. Marcadores/lápis de cor opcionais.  
 **Tamanho do grupo:** 4 alunos (min) - 6 alunos (max)  
-**Inclui:** 22 sessões de grupo (Jan-Jun 2023) + uma sessão individual adicional de leitura (~5min) por semana  
+**Inclui:** 22 sessões de grupo (Jan-Jun 2023) + uma sessão individual adicional de leitura por semana  
 **Duração da aula de grupo:** 50min (4 students); 55min (5 students); 60 minutes (6 students)  
 **Nota importante:** Os valores da inscrição e mensalidades são facturados por uma empresa e não são considerados como despesas de educação para efeitos de IRS.  
 **Contacto:** Para mais informações, contacte c21educator@gmail.com  
