@@ -1,17 +1,17 @@
 <h2> 
 <p align="center">
-Reading in English
+Read in English
 </p>
 </h2>
 
 <h4>
 <p align="center">
-  <a href="https://1blockatatime.github.io/English/Reading">Digital book directory</a>
+  <a href="https://1blockatatime.github.io/English/Directory">Digital book directory</a>
   <br>
 
 <h4>
 <p align="center">
-  <a href="https://1blockatatime.github.io/English/Reading">Online reading instruction</a>
+  <a href="https://1blockatatime.github.io/English/Instruction">Online reading instruction</a>
   <br>
 
   
