@@ -4,22 +4,28 @@
 
 #### Scholastic Sight Word Readers
 
-**Animals** ***I - eu; to like - gostar; to climb - escalar; to sun(bathe) - apanhar sol; hang - pendurar; blow - soprar; glow - brilhar***  
+##### Animals
+***I - eu; to like - gostar; to climb - escalar; to sun(bathe) - apanhar sol; hang - pendurar; blow - soprar; glow - brilhar***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/oitACW3FU2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-**Dinner** ***we – nós, get - obter/adquirir (também apanhar)***    
+##### Dinner
+***we – nós, get - obter/adquirir (também apanhar)***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/LHjgENp9mwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Farm Friends** ***I - eu; to see - ver; hen - galinha; farm - quinta***  
+##### Farm Friends
+***I - eu; to see - ver; hen - galinha; farm - quinta***  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ML2lF0VORJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-**Find it** ***to find - encontrar; the - o/a; (sun) lotion/sun cream – protector solar; (swim) suits – fato (de banho)***  
+##### Find it
+***to find - encontrar; the - o/a; (sun) lotion/sun cream – protector solar; (swim) suits – fato (de banho)***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/cfMeVZCjjuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Fly Away** ***we - nós; will [indicativo do FUTURO]; to fly - voar; Mars - Marte; sea - mar/oceano; sand - areia; home - casa (sentido 'lar'); to land - aterrar***  
+##### Fly Away
+***we - nós; will [indicativo do FUTURO]; to fly - voar; Mars - Marte; sea - mar/oceano; sand - areia; home - casa (sentido 'lar'); to land - aterrar***  
 <iframe width="220" height="315" src="https://www.youtube.com/embed/tYivni1Bt58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-**Helpers** ***I - eu; to help - ajudar; at - em/no/na; corner - esquina***   
+##### Helpers
+***I - eu; to help - ajudar; at - em/no/na; corner - esquina***   
 <iframe width="220" height="124" src="https://www.youtube.com/embed/thIJ5a2abjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Little and Big**  ***this - este/esta (também isto); little - pequeno; big - grande***
