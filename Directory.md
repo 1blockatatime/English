@@ -1,6 +1,4 @@
-<h1 id="project_title"><img id="logo" style="vertical-align:middle;text-align:left" src="[https://1blockatatime.github.io/English/images2/spl_logo_wh_bk_long.png](https://1blockatatime.github.io/English/images2/constr2.png)" height="60" alt="logo" /></h1>  
-
-### Digital book directory for ESL (English as a second language) learners
+<img id="logo" style="vertical-align:middle;text-align:left" src="[https://1blockatatime.github.io/English/images2/spl_logo_wh_bk_long.png](https://1blockatatime.github.io/English/images2/constr2.png)" height="60" alt="logo" />
 
 ![constr2](https://1blockatatime.github.io/English/images2/constr2.png)  
 
