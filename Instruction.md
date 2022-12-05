@@ -21,6 +21,8 @@ Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensã
 **Important note:** Classes are billed by a company and are not considered education expenses for tax purposes  
 **Contact:** For more information, please contact c21educator@gmail.com  
 
+***
+
 **Para:** Alunos do 3º e 4º ano com interesse em melhor desenvolver as suas capacidades e compreensão de leitura em inglês.  
 **Descrição:** Aulas semanais de pequeno grupo online - com enfoque em ‘phonics’ (pronúncia oral de letras e grupos de letras - os ‘segredos’ de leitura ) e ‘sight words’ (palavras de alta frequência com ortografia irregular e não-fonética) - com o propósito de promover a fluência e compreensão na leitura melhorando a expressão falada e a escrita.  
 
