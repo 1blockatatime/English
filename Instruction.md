@@ -1,8 +1,8 @@
-### Extra-curricular online English reading instruction – small group extension classes
+### Extra-curricular online English reading instruction
 Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensão
 
 **For:** Year 3/4 students interested in further developing their English reading fluency and comprehension  
-**Description:** Weekly small-group online sessions - with a focus on phonics (spoken pronunciation of letters and groups of letters) and sight words (high frequency words which usually have irregular, non-phonetic spelling) - designed to promote reading fluency and comprehension while also improving speaking and writing skills.
+**Description:** Weekly small-group online sessions - with a focus on phonics (spoken pronunciation of letters and groups of letters) and sight words (high frequency words which usually have irregular, non-phonetic spelling) - designed to promote reading fluency and comprehension while also improving speaking and writing skills.  
 **Typical class structure:** 
 * revision of previous week’s sounds/words  
 * introduction of new sounds/words  
@@ -12,6 +12,7 @@ Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensã
 * during writing time, students take turns to read individual take-home books to the teacher  
 * at the end of the class, students read their mini-books to the group  
 * additional online resources indicated for interested students to revise between classes  
+
 **Required materials/access:** Students need up to 40 sheets of A4 paper (any sheets with 1 blank side appropriate), a pencil, an eraser and a box for storing word cards and mini-books; ideally a PC or laptop, internet connection, access to Microsoft Teams/Zoom and a quiet place to participate in the class. Markers/coloured pencils optional.  
 **Group size:** 4 students (min) - 6 students (max)  
 **Fees include:** 22 weekly group sessions (Jan-Jun 2023) + an additional 5-min individual weekly reading session  
@@ -34,4 +35,4 @@ Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensã
 **Inclui:** 22 sessões de grupo (Jan-Jun 2023) + uma sessão individual adicional de leitura (~5min) por semana  
 **Duração da aula de grupo:** 50min (4 students); 55min (5 students); 60 minutes (6 students)  
 **Nota importante:** Os valores da inscrição e mensalidades são facturados por uma empresa e não são considerados como despesas de educação para efeitos de IRS.  
-**Contacto:** Para mais informações, queira contactar c21educator@gmail.com  
+**Contacto:** Para mais informações, contacte c21educator@gmail.com  
