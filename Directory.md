@@ -28,6 +28,10 @@
 ***we - nós; will [indicativo do FUTURO]; to fly - voar; Mars - Marte; sea - mar/oceano; sand - areia; home - casa (sentido 'lar'); to land - aterrar***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/tYivni1Bt58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+**Go, Go!**  
+***to go - ir; Go, go! - vai, vai! (sentido: 'força!'); they - eles/elas; store/shop - loja; to - a***  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/f-k0Df3YDWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 **Guessing Game**  
 ***guessing game – jogo de adivinhas; what - o quê; hive - colmeia; people – pessoas***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/YySPx5HR6zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
