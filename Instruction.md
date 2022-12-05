@@ -16,7 +16,8 @@ Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensã
 
 **Required materials/access:** Students need up to 40 sheets of A4 paper (any sheets with 1 blank side appropriate), a pencil, an eraser and a box for storing word cards and mini-books; ideally a PC or laptop, internet connection, access to Microsoft Teams/Zoom and a quiet place to participate in the class. Markers/coloured pencils optional.  
 **Group size:** 4 students (min) - 6 students (max)  
-**Fees include:** 22 weekly group sessions + an additional individual weekly reading session (Next course intake runs: Jan-Jun 2023)  
+**Fees include:** 22 weekly group sessions + an additional individual weekly reading session  
+Next course intake runs: Jan-Jun 2023  
 **Group session length:** 50min (4 students); 55min (5 students); 60 minutes (6 students)  
 **Important note:** Classes are billed by a company and are not considered education expenses for tax purposes  
 **Contact:** For more information, please contact c21educator@gmail.com  
