@@ -1,5 +1,5 @@
-### Extra-curricular online English reading instruction
-Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensão
+### Extra-curricular online English reading instruction - Primary
+Aulas extra-curriculares de pequeno grupo online - Leitura em inglês - Extensão (1º cíclo)
 
 **For:** Year 3/4 students interested in developing their English reading fluency and comprehension  
 **Description:** Weekly small-group online sessions - with a focus on phonics (spoken pronunciation of letters and groups of letters) and sight words (high frequency words which usually have irregular, non-phonetic spelling) - designed to promote reading fluency and comprehension while also improving speaking and writing skills.  
