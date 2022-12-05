@@ -37,7 +37,7 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/thIJ5a2abjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **I Did It!**  
-***I - eu; to do - fazer; to do it – fazê-lo/conseguir fazê-lo (did - passado simples); to button – abotoar; to pull – puxar; to tie – atar/amarrar ; to zip – fechar um fecho éclair; to snap – estalar; to open – abrir; to wait - esperar; to hug - abraçar  
+***I - eu; to do - fazer; to do it – fazê-lo/conseguir fazê-lo (did - passado simples); to button – abotoar; to pull – puxar; to tie – atar/amarrar ; to zip – fechar um fecho éclair; to snap – estalar; to open – abrir; to wait - esperar; to hug - abraçar***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/E0R5QBJCxyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Little and Big**  
@@ -85,7 +85,7 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/2k9AS7pjQCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **The Party**  
-***the - o/a; party - festa; here are - aqui estão; ***
+***the - o/a; party - festa; here are - aqui estão; horns - buzinas (também chifres); gifts/presents - prendas; guests - convidados; surprise (nome/substantivo) - surpresa***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/SgKj6Bp3jtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **This is a Peach**  
