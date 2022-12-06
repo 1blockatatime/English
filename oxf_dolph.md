@@ -1,10 +1,12 @@
-![constr2](https://1blockatatime.github.io/English/images2/constr2.png){:height="50px"}  
-
 #### Oxford Dolphin Readers
 
 **How’s the weather?**  
 ***Look at ... -  Olha para ...***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/zctxOHE6TKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+**Game of Shapes**  
+***shapes - formas; game of shapes - jogo de formas; square - quadrado; diamond - rombo; candy - guloseimas***  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/U4wl_hh8v-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Monkeying Around**  
 ***monkeying around – macacando por aí; bush – arbusto; what is it? – o que é?; what are they? – o que são?; It’s=It is – É; They’re=They are – São***  
@@ -39,3 +41,8 @@ Family/rooms of the house
 **A Day with Baby**  
 ***day – dia; with – com; to be at home – estar em casa; too – também; here’s=here is – aqui está; look! – olha!; let’s – vamos; face – cara***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/cR_mejkTh4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**On Safari**  
+***with - com; they're at=they are at - estão no/na; to watch - olhar (observar); to like - gostar; grass - relva; a lot - muito; too - também (também excessivamente); it's time to - são horas de; to go - ir; home - casa***  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/q7Z0hQfBkx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
