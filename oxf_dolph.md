@@ -7,11 +7,11 @@
 <iframe width="220" height="124" src="https://www.youtube.com/embed/zctxOHE6TKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Monkeying Around**  
-*** monkeying around – macacando por aí; bush – arbusto; what is it? – o que é?; what are they? – o que são?; It’s=It is – É; They’re=They are – São***  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ucVo1_63yv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+***monkeying around – macacando por aí; bush – arbusto; what is it? – o que é?; what are they? – o que são?; It’s=It is – É; They’re=They are – São***  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/ucVo1_63yv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Where is it?**  
-***where – onde; look – olha; to come down – descer; over here  - por aqui; keys – chaves; over there – ali ***  
+***where – onde; look – olha; to come down – descer; over here  - por aqui; keys – chaves; over there – ali***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/-kZxPyK3MV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Baby Animals**  
