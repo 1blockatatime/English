@@ -22,7 +22,7 @@ Nota: embora o texto escrito usa a estrutura mais comun no Reino Unido para expr
 <iframe width="220" height="124" src="https://www.youtube.com/embed/QuAZisB3_W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Doctor, Doctor**  
-***to hurt - doer***  
+***to hurt - doer; let's go - vamos; thank you - obrigada/o; you're welcome - de nada***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/SiyFYplAyjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **My family**  
@@ -35,7 +35,7 @@ Family/rooms of the house
 <iframe width="220" height="124" src="https://www.youtube.com/embed/mB8gkiiQWZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Silly Squirrel**  
-***silly – um pouco toto***  
+***silly – um pouco toto; squirrel - esquilo; to live - morar; winter - inverno; to look for - procurar; food - comida; to find - encontrar; too - também***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/AKAg-ykSPuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **A Day with Baby**  
