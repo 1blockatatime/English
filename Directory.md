@@ -1,5 +1,7 @@
 
-### Online levelled reading collections
+Online English reading directory for English as a additional language learners   
+
+### Levelled reading collections
 
 #### [Scholastic Sight Word Readers](https://1blockatatime.github.io/English/schol_swr)  
 #### [Oxford Dolphin Readers](https://1blockatatime.github.io/English/oxf_dolph)  
