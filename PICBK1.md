@@ -12,3 +12,7 @@
 ***brave - corajoso; quietly - pouco barulhento; peep - espreitadela; 'fast asleep' - a dormir profundamente***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/rmbgsBcBc6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
+**Panda bear, panda bear, What do you see?** by Bill Martin Jr, illustrated by Eric Carle  
+*** verbs ***
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JRwhRPcNx74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
