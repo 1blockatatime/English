@@ -1,6 +1,6 @@
 #### United for Literacy online readers
 
-Nota: Confirma a tua pronúncia. Clica no altifalante em baixo de cada página para ouvir a leitura em voz alta!   
+Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.  
 
 ##### Level 0  
 
