@@ -50,6 +50,9 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 
 ##### Level 4+
 
+**Bats Dare to be Different** by Mackenzie Mathur and Laura Batt, published by Unite for Literacy   
+[![ufl1354](https://1blockatatime.github.io/English/images2/ufl1354.png){:height="60px"}](https://www.uniteforliteracy.com/unite/mammals/book?BookId=1354)   
+
 **Hide and Seek** by Will McKay, published by Unite for Literacy   
 [![ufl1728](https://1blockatatime.github.io/English/images2/ufl1728.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=1728)  
 
