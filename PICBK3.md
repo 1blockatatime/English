@@ -3,6 +3,8 @@
 
 ##### Stage 6 - Stage 7
 
+(1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
+
 **Titchy Witch and the Get Better Spell**   
 by Rose Impey, illustrated by Katharine McEwen, published by Orchard Books  
 Leitura muito rápida. Recomenda-se alterar o 'playback speed' para 0.75.  
