@@ -4,9 +4,9 @@ Online English reading directory for English and English as an additional langua
 ### Levelled reading collections (colecções de leitura nivelada)
 
 #### [Scholastic Sight Word Readers](https://1blockatatime.github.io/English/schol_swr)  
-#### [Oxford Dolphin Readers](https://1blockatatime.github.io/English/oxf_dolph)  
-#### [United for Learning](https://1blockatatime.github.io/English/ufl_readers)
 #### [SPELDSA](https://1blockatatime.github.io/English/speldsa)  
+#### [United for Learning](https://1blockatatime.github.io/English/ufl_readers)
+#### [Oxford Dolphin Readers](https://1blockatatime.github.io/English/oxf_dolph)  
 
 ### Children's picture books (literatura infantil)
 
