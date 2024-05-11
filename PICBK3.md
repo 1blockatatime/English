@@ -1,7 +1,7 @@
 <!--**I'm not scared. You're scared.** by Seth Meyers, illustrated by Rob Sayegh Jr, published by
 <iframe width="220" height="124" src="https://www.youtube.com/embed/ljIFmU1QRGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->  
 
-##### Stage 6 - Stage 7
+### Stage 6 - Stage 7
 
 (1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
 
