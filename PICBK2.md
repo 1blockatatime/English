@@ -1,3 +1,7 @@
+### Stage 4 - Stage 5+
+
+(1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
+
 #### Stage 4+
 
 **Pete the Cat and The Cool Caterpillar** by James Dean and Kimberley Dean   
