@@ -1,4 +1,8 @@
-#### Oxford Dolphin Readers
+### Oxford Dolphin Readers
+
+(1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
+
+#### Stage 3
 
 **How’s the weather?**  
 ***Look at ... -  Olha para ...***  
