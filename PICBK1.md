@@ -1,6 +1,8 @@
-#### Children's literature - Stage 1 to Stage 3+
+### Children's literature - Stage 1 to Stage 3+
 
-##### Stage ~1+  
+(1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
+
+#### Stage ~1+  
 
 **Have you seen my cat?** by Eric Carle  
 ***'have you seen?' - 'tens visto'/'tem visto?'***  
@@ -8,7 +10,7 @@
 
 ***
 
-##### Stage 2 / Stage 3  
+#### Stage 2 / Stage 3  
 
 **Head to Toe** by Eric Carle
 ***'I am' - 'Eu sou/eu estou'; 'Can you do it?' - 'Consegues fazê-lo?'; 'I can do it.' - 'Eu consigo fazê-lo.'***
@@ -21,7 +23,7 @@
 
 ***
 
-##### Stage 3  
+#### Stage 3  
 
 **Where is the Green Sheep?**  written by Mem Fox and illustrated by Judy Horacek,   
 published by Penguin Random House Australia  
@@ -30,7 +32,7 @@ published by Penguin Random House Australia
 
 ***  
 
-##### Stage 3+  
+#### Stage 3+  
 
 **Oh Dear!** by Rod Campbell, published by MacMillan's Children's Books   
 ***to stay with – ficar com (visitar); farm – quinta; to fetch – ir buscar; so – por isso; then - então; to remember – lembrar; to lift up – levantar***  
