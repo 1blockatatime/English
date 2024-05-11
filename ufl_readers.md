@@ -14,7 +14,7 @@ Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.
 
 **Whose nose?** by Holly Hartman, published by Unite for Literacy   
 ***whose nose can this be - de quem pode este nariz ser?; kitty's nose - o nariz do gatinho***  
-![ufl2088](https://1blockatatime.github.io/English/images2/ufl2088.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=2088)
+[![ufl2088](https://1blockatatime.github.io/English/images2/ufl2088.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=2088)
 
 **I read everywhere!** by Phoebe McGuffee, published by Unite for Literacy  
 ***reader - leitor; 'all kinds of places' - 'todo o tipo de lugar'; beside=by=next to - 'ao lado de'; everywhere - todo o lado***  
