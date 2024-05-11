@@ -8,8 +8,8 @@
 ***'I am' - 'Eu sou/eu estou'; 'Can you do it?' - 'Consegues fazê-lo?'; 'I can do it.' - 'Eu consigo fazê-lo.'***
 <iframe width="220" height="124" src="https://www.youtube.com/embed/fOIx72g0UdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-**Brown Bear, Brown Bear, What do you see?** by Bill Martin Jr, illustrated by Eric Carle  
+**Brown Bear, Brown Bear, What do you see?** by Bill Martin Jr, illustrated by Eric Carle, video and music by Mr Elephant - Music and Books for Kids   
 ***'What do you see?' - 'O que é que vês?'***  
 ***'I see a red bird looking at me.' - 'Eu vejo um pássaro vermelho a olhar para mim.'***  
-<iframe width="220" height="124" src="https://www.youtube.com/embed/pdHCYgO9zh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe width="220" height="124" src="https://www.youtube.com/embed/E7tvOtt1itA?si=NTSQ9eJ85a8B9GfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
