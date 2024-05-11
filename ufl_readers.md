@@ -62,4 +62,4 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 **Let's Be Friends**  by Phoebe McGuffee and Carol Baumbusch, published by Unite for Literacy   
 [![ufl1469](https://1blockatatime.github.io/English/images2/ufl1469.png){:height="60px"}](https://www.uniteforliteracy.com/featured/new/book?BookId=1469)  
 
-[Vê a colecção toda...](https://www.uniteforliteracy.com/)  
+[See the whole collection/Vê a colecção toda...](https://www.uniteforliteracy.com/)  
