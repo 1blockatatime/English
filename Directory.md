@@ -12,10 +12,8 @@ Online English reading directory for English and English as an additional langua
 
 (1). Turn off the sound, watch and read. (2). Turn on the sound and listen.   
 
-#### [Picture books - level 0](https://1blockatatime.github.io/English/PICBK0)  
-#### [Picture books - level 1](https://1blockatatime.github.io/English/PICBK1)  
-#### [Picture books - level 2](https://1blockatatime.github.io/English/PICBK2)  
-#### [Picture books - level 3](https://1blockatatime.github.io/English/PICBK3)  
-#### [Picture books - level 4+](https://1blockatatime.github.io/English/PICBK4)  
+#### [Picture books - Stage 1 to Stage 3+](https://1blockatatime.github.io/English/PICBK1)  
+#### [Picture books - Stage 4 to Stage 5+](https://1blockatatime.github.io/English/PICBK2)  
+#### [Picture books - Stage 6 to Stage 7+](https://1blockatatime.github.io/English/PICBK3)  
 
 ***  
