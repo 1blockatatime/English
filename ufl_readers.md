@@ -1,8 +1,8 @@
-#### United for Literacy online readers
+![image](https://github.com/1blockatatime/English/assets/62171719/01ddd55f-4e25-480c-8025-dd47b3a8966a)#### United for Literacy online readers
 
 Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.  
 
-##### Level 0  
+##### ~Stage 1+/2  
 
 **Squish!** by Holly Hartman, published by Unite for Literacy  
 ***to squish - esmagar; cloud - núvem; dark - escuro***  
@@ -10,7 +10,7 @@ Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.
 **Opposites** by Phoebe McGuffee, published by Unite for Literacy   
 [![ufl227](https://1blockatatime.github.io/English/images2/ufl227.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/kindergarten-books/shelf3/book?BookId=227)  
 
-##### Level 1
+##### ~Stage 3
 
 **Whose nose?** by Holly Hartman, published by Unite for Literacy   
 ***whose nose can this be - de quem pode este nariz ser?; kitty's nose - o nariz do gatinho***  
@@ -34,7 +34,7 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 ***can - poder; guess - adivinhar; these - estas/estes; what am I? - O que é que sou eu?; grey(UK) = gray(US) - cinzento; skinny = thin - magro; bright (colour)- (cor) vibrante; colourful(UK) = colorful(US) - colorido***  
 [![ufl034](https://1blockatatime.github.io/English/images2/ufl034.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=34)  
 
-##### Level 2
+##### ~Stage 3+
 **Sticks and Stones** by Phoebe McGuffee, published by Unite for Literacy  
 ***stick - pau; stone - pedrinha; to want - querer; something - alguma coisa; to find - encontrar; to make - fazer; these - estas/estes***  
 [![ufl2062](https://1blockatatime.github.io/English/images2/ufl2062.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/play/book?BookId=2062)  
@@ -43,15 +43,27 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 ***where - onde; to sleep - dormir; time for bed - hora de ir para cama; everyone - toda a gente; to have(US) = to have got(UK) - ter; place - sítio; to find - procurar/encontrar; fox - raposa; den - toca***  
 [![ufl139](https://1blockatatime.github.io/English/images2/ufl139.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=139)  
 
-##### Level 3
 **Make your bed** by Michael McGuffee, illustrated by Nina Ollikainen, published by Unite for Literacy   
 ***to make (one's) bed - fazer a cama; to make - fazer; library - biblioteca; island - ilha; cave - caverna; to tell - contar/relatar; tent - tenda; jungle - selva; to train - treinar; around the track - ao redor da pista***   
 [![ufl181](https://1blockatatime.github.io/English/images2/ufl181.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=181)   
 
-##### Level 4+
+##### Stage 4
+
+**Grandpa's Secret Potion** by Holly Hartman, illustrated by Nina Ollikainen, published by Unite for Literacy   
+[![ufl179](https://1blockatatime.github.io/English/images2/ufl179.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=179)   
+
+#### Stage 5+
+
+**Fair for Everyone** by Hank Hoeven, published by Unite for Literacy   
+[![ufl1467](https://1blockatatime.github.io/English/images2/ufl1467.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/friends/book?BookId=1467)  
+
+##### Stage 6/7+
+
+**The Girl Who Learned to Fly** by Syliva Acevedo, published by Unite for Literacy   
+[![ufl1354](https://1blockatatime.github.io/English/images2/ufl1354.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/community/book?BookId=1276)    
 
 **Bats Dare to be Different** by Mackenzie Mathur and Laura Batt, published by Unite for Literacy   
-[![ufl1354](https://1blockatatime.github.io/English/images2/ufl1354.png){:height="60px"}](https://www.uniteforliteracy.com/unite/mammals/book?BookId=1354)   
+[![ufl1276](https://1blockatatime.github.io/English/images2/ufl1276.png){:height="60px"}](https://www.uniteforliteracy.com/unite/mammals/book?BookId=1354)
 
 **Hide and Seek** by Will McKay, published by Unite for Literacy   
 [![ufl1728](https://1blockatatime.github.io/English/images2/ufl1728.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=1728)  
@@ -60,6 +72,6 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 [![ufl1546](https://1blockatatime.github.io/English/images2/ufl1546.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/play/book?BookId=1546)  
 
 **Let's Be Friends**  by Phoebe McGuffee and Carol Baumbusch, published by Unite for Literacy   
-[![ufl1469](https://1blockatatime.github.io/English/images2/ufl1469.png){:height="60px"}](https://www.uniteforliteracy.com/featured/new/book?BookId=1469)  
+[![ufl1469](https://1blockatatime.github.io/English/images2/ufl1469.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/friends/book?BookId=1469)  
 
 [See the whole collection/Vê a colecção toda...](https://www.uniteforliteracy.com/)  
