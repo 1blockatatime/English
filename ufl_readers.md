@@ -2,7 +2,7 @@
 
 Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.  
 
-##### ~Stage 1+/2  
+##### Stage ~1+/2  
 
 **Squish!** by Holly Hartman, published by Unite for Literacy  
 ***to squish - esmagar; cloud - núvem; dark - escuro***  
@@ -10,7 +10,7 @@ Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.
 **Opposites** by Phoebe McGuffee, published by Unite for Literacy   
 [![ufl227](https://1blockatatime.github.io/English/images2/ufl227.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/kindergarten-books/shelf3/book?BookId=227)  
 
-##### ~Stage 3
+##### Stage ~3
 
 **Whose nose?** by Holly Hartman, published by Unite for Literacy   
 ***whose nose can this be - de quem pode este nariz ser?; kitty's nose - o nariz do gatinho***  
@@ -34,7 +34,7 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 ***can - poder; guess - adivinhar; these - estas/estes; what am I? - O que é que sou eu?; grey(UK) = gray(US) - cinzento; skinny = thin - magro; bright (colour)- (cor) vibrante; colourful(UK) = colorful(US) - colorido***  
 [![ufl034](https://1blockatatime.github.io/English/images2/ufl034.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=34)  
 
-##### ~Stage 3+
+##### Stage ~3+
 **Sticks and Stones** by Phoebe McGuffee, published by Unite for Literacy  
 ***stick - pau; stone - pedrinha; to want - querer; something - alguma coisa; to find - encontrar; to make - fazer; these - estas/estes***  
 [![ufl2062](https://1blockatatime.github.io/English/images2/ufl2062.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/play/book?BookId=2062)  
@@ -47,17 +47,17 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 ***to make (one's) bed - fazer a cama; to make - fazer; library - biblioteca; island - ilha; cave - caverna; to tell - contar/relatar; tent - tenda; jungle - selva; to train - treinar; around the track - ao redor da pista***   
 [![ufl181](https://1blockatatime.github.io/English/images2/ufl181.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=181)   
 
-##### ~Stage 4
+##### Stage ~4
 
 **Grandpa's Secret Potion** by Holly Hartman, illustrated by Nina Ollikainen, published by Unite for Literacy   
 [![ufl179](https://1blockatatime.github.io/English/images2/ufl179.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=179)   
 
-##### ~Stage 5+
+##### Stage ~5+
 
 **Fair for Everyone** by Hank Hoeven, published by Unite for Literacy   
 [![ufl1467](https://1blockatatime.github.io/English/images2/ufl1467.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/friends/book?BookId=1467)  
 
-##### ~Stage 6/7+
+##### Stage ~6/7+
 
 **The Girl Who Learned to Fly** by Syliva Acevedo, published by Unite for Literacy   
 [![ufl1354](https://1blockatatime.github.io/English/images2/ufl1354.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/community/book?BookId=1276)    
