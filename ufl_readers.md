@@ -2,13 +2,23 @@
 
 Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.  
 
+***
 ##### Stage ~1+/2  
+
+**What colours do you eat?** by Holly Hartman, published by Unite for Literacy
+[![ufl163](https://1blockatatime.github.io/English/images2/ufl163.png){:height="60px"}](https://uniteforliteracy.com/unite/eat/book?BookId=163)  
+
+**Baby Animals** by Leone Locke, published by Unite for Literacy  
+[![ufl093](https://1blockatatime.github.io/English/images2/ufl093.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=93)  
+
+**Opposites** by Phoebe McGuffee, published by Unite for Literacy    
+[![ufl227](https://1blockatatime.github.io/English/images2/ufl227.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/kindergarten-books/shelf3/book?BookId=227)  
 
 **Squish!** by Holly Hartman, published by Unite for Literacy  
 ***to squish - esmagar; cloud - núvem; dark - escuro***  
 [![ufl084](https://1blockatatime.github.io/English/images2/ufl084.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/play/book?BookId=84)  
-**Opposites** by Phoebe McGuffee, published by Unite for Literacy   
-[![ufl227](https://1blockatatime.github.io/English/images2/ufl227.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/kindergarten-books/shelf3/book?BookId=227)  
+
+***
 
 ##### Stage ~3
 
@@ -34,7 +44,14 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 ***can - poder; guess - adivinhar; these - estas/estes; what am I? - O que é que sou eu?; grey(UK) = gray(US) - cinzento; skinny = thin - magro; bright (colour)- (cor) vibrante; colourful(UK) = colorful(US) - colorido***  
 [![ufl034](https://1blockatatime.github.io/English/images2/ufl034.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=34)  
 
+***
+
 ##### Stage ~3+
+
+**Make your bed** by Michael McGuffee, illustrated by Nina Ollikainen, published by Unite for Literacy   
+***to make (one's) bed - fazer a cama; to make - fazer; library - biblioteca; island - ilha; cave - caverna; to tell - contar/relatar; tent - tenda; jungle - selva; to train - treinar; around the track - ao redor da pista***   
+[![ufl181](https://1blockatatime.github.io/English/images2/ufl181.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=181)   
+
 **Sticks and Stones** by Phoebe McGuffee, published by Unite for Literacy  
 ***stick - pau; stone - pedrinha; to want - querer; something - alguma coisa; to find - encontrar; to make - fazer; these - estas/estes***  
 [![ufl2062](https://1blockatatime.github.io/English/images2/ufl2062.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/play/book?BookId=2062)  
@@ -43,19 +60,30 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 ***where - onde; to sleep - dormir; time for bed - hora de ir para cama; everyone - toda a gente; to have(US) = to have got(UK) - ter; place - sítio; to find - procurar/encontrar; fox - raposa; den - toca***  
 [![ufl139](https://1blockatatime.github.io/English/images2/ufl139.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=139)  
 
-**Make your bed** by Michael McGuffee, illustrated by Nina Ollikainen, published by Unite for Literacy   
-***to make (one's) bed - fazer a cama; to make - fazer; library - biblioteca; island - ilha; cave - caverna; to tell - contar/relatar; tent - tenda; jungle - selva; to train - treinar; around the track - ao redor da pista***   
-[![ufl181](https://1blockatatime.github.io/English/images2/ufl181.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=181)   
+**José's Chickens** by Natalia García Hernández, published by Unite for Literacy   
+[![ufl2013](https://1blockatatime.github.io/English/images2/ufl2013.png){:height="60px"}](https://www.uniteforliteracy.com/unite/math/book?BookId=2013)   
+
+***
 
 ##### Stage ~4
 
+**Let's Make Lemonade** by Juliet Sebold, published by Unite for Literacy  
+[![ufl2380](https://1blockatatime.github.io/English/images2/ufl2380.png){:height="60px"}](https://www.uniteforliteracy.com/unite/eat/book?BookId=2380)  
+
 **Grandpa's Secret Potion** by Holly Hartman, illustrated by Nina Ollikainen, published by Unite for Literacy   
 [![ufl179](https://1blockatatime.github.io/English/images2/ufl179.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=179)   
+
+***
 
 ##### Stage ~5+
 
 **Fair for Everyone** by Hank Hoeven, published by Unite for Literacy   
 [![ufl1467](https://1blockatatime.github.io/English/images2/ufl1467.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/friends/book?BookId=1467)  
+
+**Joe Scores a Goal** by Joe Akmakjian, illustrated by Heather Burton, published by Unite for Literacy  
+[![ufl1840](https://1blockatatime.github.io/English/images2/ufl1840.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/featured/book?BookId=1840)  
+
+***
 
 ##### Stage ~6/7+
 
