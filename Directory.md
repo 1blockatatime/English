@@ -10,8 +10,7 @@ Online English reading directory for English and English as an additional langua
 
 ### Children's picture books (literatura infantil)
 
-(1). Turn off the sound, watch the video and try to read the book.  
-(2). Turn on the sound and watch again to listen and confirm your pronunciation and understanding.  
+(1). Turn off the sound, watch and read. (2). Turn on the sound and listen.   
 
 #### [Picture books - level 0](https://1blockatatime.github.io/English/PICBK0)  
 #### [Picture books - level 1](https://1blockatatime.github.io/English/PICBK1)  
