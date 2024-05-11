@@ -1,4 +1,4 @@
-![image](https://github.com/1blockatatime/English/assets/62171719/01ddd55f-4e25-480c-8025-dd47b3a8966a)#### United for Literacy online readers
+#### United for Literacy online readers
 
 Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.  
 
@@ -47,17 +47,17 @@ https://www.uniteforliteracy.com/free-books-online/kindergarten-books/kidschildr
 ***to make (one's) bed - fazer a cama; to make - fazer; library - biblioteca; island - ilha; cave - caverna; to tell - contar/relatar; tent - tenda; jungle - selva; to train - treinar; around the track - ao redor da pista***   
 [![ufl181](https://1blockatatime.github.io/English/images2/ufl181.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=181)   
 
-##### Stage 4
+##### ~Stage 4
 
 **Grandpa's Secret Potion** by Holly Hartman, illustrated by Nina Ollikainen, published by Unite for Literacy   
 [![ufl179](https://1blockatatime.github.io/English/images2/ufl179.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/family/book?BookId=179)   
 
-#### Stage 5+
+##### ~Stage 5+
 
 **Fair for Everyone** by Hank Hoeven, published by Unite for Literacy   
 [![ufl1467](https://1blockatatime.github.io/English/images2/ufl1467.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/friends/book?BookId=1467)  
 
-##### Stage 6/7+
+##### ~Stage 6/7+
 
 **The Girl Who Learned to Fly** by Syliva Acevedo, published by Unite for Literacy   
 [![ufl1354](https://1blockatatime.github.io/English/images2/ufl1354.png){:height="60px"}](https://www.uniteforliteracy.com/free-books-online/home/community/book?BookId=1276)    
