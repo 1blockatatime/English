@@ -28,3 +28,11 @@ by Sara MacDonald, Randall Hall and Richard John, published by Griffith Universi
 **Finding Half** (fractions - half)  
 by Sara MacDonald, Randall Hall and Richard John, published by Griffith University   
 [![mm_1_fdh](https://1blockatatime.github.io/English/images2/mm_1_fdh.png){:height="100px"}](https://read.bookcreator.com/90xX8oEcxcfyNZIYJfiFotsyL6S2/nEKCK1HfQNa6eY3sUfirsQ/VrrHluD-S-uG7_P6LdsPFQ)
+
+**Collecting Cans** (addition strategies)  
+by Sara MacDonald, Randall Hall and Richard John, published by Griffith University   
+[![mm_1_clc](https://1blockatatime.github.io/English/images2/mm_1_clc.png){:height="100px"}](https://read.bookcreator.com/90xX8oEcxcfyNZIYJfiFotsyL6S2/mJL0zE6pTOKD36DIYmrL6Q/dTljHemAQci1aWLE2MFLNw)
+
+**Counting Coins** (measurement - money and skip counting)  
+by Sara MacDonald, Randall Hall and Richard John, published by Griffith University   
+[![mm_1_ctc](https://1blockatatime.github.io/English/images2/mm_1_ctc.png){:height="100px"}](https://read.bookcreator.com/90xX8oEcxcfyNZIYJfiFotsyL6S2/kSNMWUlySBGcD8f3-l_EzQ/0LYBPH3zSO-aQ9FNZWUOJQ)
