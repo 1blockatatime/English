@@ -1,6 +1,7 @@
 #### United for Literacy online readers
 
-Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.  
+(1). Read the page. (2). To hear it aloud, click on the speaker at the bottom of the page.  
+(1). Lê a página. (2). Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.  
 
 ***
 ##### Stage ~1+/2  
