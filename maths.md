@@ -23,7 +23,7 @@ by Sara MacDonald, Randall Hall and Richard John, published by Griffith Universi
 
 **Just Like My Dad** (classification/identification using yes/no questions)  
 by Sara MacDonald, Randall Hall and Richard John, published by Griffith University   
-[![mm_1_jld](https://1blockatatime.github.io/English/images2/mm_1_mgf.jld){:height="100px"}](https://read.bookcreator.com/90xX8oEcxcfyNZIYJfiFotsyL6S2/RBVXwA5RTwqsRFmgTYiFPg/HSJHs8h9Q5eH-oyEEtJdQQ)
+[![mm_1_jld](https://1blockatatime.github.io/English/images2/mm_1_jld.png){:height="100px"}](https://read.bookcreator.com/90xX8oEcxcfyNZIYJfiFotsyL6S2/RBVXwA5RTwqsRFmgTYiFPg/HSJHs8h9Q5eH-oyEEtJdQQ)
 
 **Finding Half** (fractions - half)  
 by Sara MacDonald, Randall Hall and Richard John, published by Griffith University   
