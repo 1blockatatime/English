@@ -8,6 +8,10 @@ Online English reading directory for English and English as an additional langua
 #### [SPELDSA](https://1blockatatime.github.io/English/speldsa)  
 #### [Oxford Dolphin Readers](https://1blockatatime.github.io/English/oxf_dolph)  
 
+### Language for Maths (linguagem de matemática)
+
+#### [Millie the Mathematician early reader books](https://1blockatatime.github.io/English/maths) 
+
 ### Children's picture books (literatura infantil)
 
 (1). Turn off the sound, watch and read. (2). Turn on the sound and listen.   
