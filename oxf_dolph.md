@@ -2,7 +2,7 @@
 
 (1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
 
-#### Stage 3
+#### Stage 3 (L0, L1)
 
 **How’s the weather?**  
 ***Look at ... -  Olha para ...***  
@@ -49,4 +49,14 @@ Family/rooms of the house
 **On Safari**  
 ***with - com; they're at=they are at - estão no/na; to watch - olhar (observar); to like - gostar; grass - relva; a lot - muito; too - também (também excessivamente); it's time to - são horas de; to go - ir; home - casa***  
 <iframe width="220" height="124" src="https://www.youtube.com/embed/q7Z0hQfBkx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+#### Stages 4, 5, 6, 7, 8 and 9
+
+(1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
+
+For Stage 4 and Stage 5, read books at Level 2 (L2).    
+For Stage 6 and Stage 7, read books at Level 3 (L3).  
+For Stage 8 and Stage 9, read books at Level 4 (L4).   
+
+[Here are the books.](https://www.youtube.com/playlist?list=PLNulZ4wEUYxHR7ZLrilCKbJIz_k-FVCRu)  
 
