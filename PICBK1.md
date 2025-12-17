@@ -2,7 +2,7 @@
 
 (1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
 
-#### Stage ~1+  
+#### Level 0  
 
 **Have you seen my cat?** by Eric Carle  
 ***'have you seen?' - 'tens visto'/'tem visto?'***  
@@ -10,7 +10,7 @@
 
 ***
 
-#### Stage 2 / Stage 3  
+#### Level 1  
 
 **Head to Toe** by Eric Carle
 ***'I am' - 'Eu sou/eu estou'; 'Can you do it?' - 'Consegues fazê-lo?'; 'I can do it.' - 'Eu consigo fazê-lo.'***
@@ -23,7 +23,7 @@
 
 ***
 
-#### Stage 3  
+#### Level 1/2  
 
 **Where is the Green Sheep?**  written by Mem Fox and illustrated by Judy Horacek,   
 published by Penguin Random House Australia  
@@ -31,8 +31,6 @@ published by Penguin Random House Australia
 <iframe width="220" height="124" src="https://www.youtube.com/embed/rmbgsBcBc6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 ***  
-
-#### Stage 3+  
 
 **Oh Dear!** by Rod Campbell, published by MacMillan's Children's Books   
 ***to stay with – ficar com (visitar); farm – quinta; to fetch – ir buscar; so – por isso; then - então; to remember – lembrar; to lift up – levantar***  
