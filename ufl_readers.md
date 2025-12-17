@@ -4,14 +4,16 @@
 (1). Lê a página. (2). Para ouvir a leitura em voz alta, clica no altifalante em baixo de cada página.  
 
 ***
-##### Stage ~1+/2  
+##### Starter - Level 0  
 
 **What colours do you eat?**   
 by Holly Hartman, published by Unite for Literacy  
+I eat - eu como  
 [![ufl163](https://1blockatatime.github.io/English/images2/ufl163.png){:height="60px"}](https://uniteforliteracy.com/unite/eat/book?BookId=163)  
 
 **Baby Animals**   
 by Leone Locke, published by Unite for Literacy  
+to be called - ser chamado   
 [![ufl093](https://1blockatatime.github.io/English/images2/ufl093.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=93)  
 
 **Opposites**   
@@ -25,10 +27,11 @@ by Holly Hartman, published by Unite for Literacy
 
 ***
 
-##### Stage ~3
+##### Level 1
 
 **Whose nose?**   
 by Holly Hartman, published by Unite for Literacy   
+whose - de quem      
 ***whose nose can this be - de quem pode este nariz ser?; kitty's nose - o nariz do gatinho***  
 [![ufl2088](https://1blockatatime.github.io/English/images2/ufl2088.png){:height="60px"}](https://www.uniteforliteracy.com/unite/allanimals/book?BookId=2088)
 
@@ -56,7 +59,7 @@ by Phoebe McGuffee and Brenda Doran, published by Unite for Literacy
 
 ***
 
-##### Stage ~3+
+##### Level 2
 
 **Make your bed**   
 by Michael McGuffee, illustrated by Nina Ollikainen, published by Unite for Literacy   
@@ -79,7 +82,7 @@ by Natalia García Hernández, published by Unite for Literacy
 
 ***
 
-##### Stage ~4
+##### Level 3
 
 **Let's Make Lemonade**   
 by Juliet Sebold, published by Unite for Literacy  
@@ -91,7 +94,7 @@ by Holly Hartman, illustrated by Nina Ollikainen, published by Unite for Literac
 
 ***
 
-##### Stage ~5+
+##### Level 4
 
 **Fair for Everyone**   
 by Hank Hoeven, published by Unite for Literacy   
@@ -103,7 +106,7 @@ by Joe Akmakjian, illustrated by Heather Burton, published by Unite for Literacy
 
 ***
 
-##### Stage ~6/7+
+##### Level 5+
 
 **The Girl Who Learned to Fly**   
 by Syliva Acevedo, published by Unite for Literacy   
