@@ -1,4 +1,4 @@
-#### Scholastic Sight Word Readers
+#### Scholastic Sight Word Readers (Level 0/Level 1)
 
 **Animals**  
 ***I - eu; to like - gostar; to climb - escalar; to sun(bathe) - apanhar sol; hang - pendurar; blow - soprar; glow - brilhar***  
