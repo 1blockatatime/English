@@ -1,8 +1,7 @@
-### Children's literature - Stage 4-Stage 5+
-
+### Children's literature - Level 3+
 (1). Turn off the sound, watch and read. (2). Turn on the sound and listen.  
 
-#### Stage 4+
+#### Level 3  
 
 **Pete the Cat and The Cool Caterpillar** by James Dean and Kimberley Dean   
 Edited by HarperCollins Publishers Inc, Music & Narration by Magical Little Minds Read Along Storytime      
@@ -10,7 +9,7 @@ Edited by HarperCollins Publishers Inc, Music & Narration by Magical Little Mind
 
 *** 
 
-#### Stage 5+ 
+#### Level 4   
 
 **The Cat in the Hat** by Dr. Seuss   
 Published by Random House Children's Books, Video by Story Time with Owl  
