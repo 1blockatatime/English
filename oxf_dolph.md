@@ -1,11 +1,10 @@
 ### Oxford Dolphin Readers
 
-(1). Turn off the sound, watch and read independently.   
-Desligar o som, ver e tentar ler da forma independente.    
-(2). Turn on the sound, watch, read and listen.   
-Ligar o som, ver, ler e ouvir.    
-(3). Turn off the sound and read the book again.   
-Desligar o som e ler outra vez.    
+Read it yourself, then watch and listen to check... OR    
+Watch and listen first then read it yourself....    
+
+Ler sozinho e depois ver e ouvir para verificar... OU    
+Ver e ouvir e depois lê sozinho...   
 
 #### Level 0 - Starter level
 
