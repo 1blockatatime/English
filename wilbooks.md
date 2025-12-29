@@ -71,6 +71,7 @@ Transport/transportes; look up - olha/olhem para cima; verb/verbo: there is(1)-t
 ***   
 
 Read more books... / Lê mais livros     
+Click here, scroll down and choose a level... / Clicar aqui, rolar para baixo e escolher o nível...     
 [![wbdir](https://1blockatatime.github.io/English/images2/wbdir.png){:height="70px"}](https://www.wilbooks.com/free-online-books-guided-reading-level)   
 A: Level 0/1    
 B: Level 1   
