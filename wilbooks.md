@@ -3,7 +3,7 @@
 #### Level 0 - Starter level
 
 **Long Day**  
-Verbs/verbos; day - dia; long - comprido
+Verbs/verbos; day - dia; long - comprido    
 [![wb0ld](https://1blockatatime.github.io/English/images2/wb0ld.PNG){:height="70px"}](https://www.wilbooks.com/freeonlinebooks/2168.html)   
 
 **We Fly**  
@@ -25,7 +25,7 @@ They swim - eles/elas nadam
 [![wb0ts](https://1blockatatime.github.io/English/images2/wb0ts.PNG){:height="70px"}](https://www.wilbooks.com/freeonlinebooks/2386.html)  
 
 **One Baby**  
-Animals/animais; baby/bebê; verb/verbo: to look/olhar
+Animals/animais; baby/bebê; verb/verbo: to look/olhar     
 [![wb0ob](https://1blockatatime.github.io/English/images2/wb0ob.PNG){:height="70px"}](https://www.wilbooks.com/freeonlinebooks/2181.html)   
 
 **Ned Sees a Machine**  
@@ -70,7 +70,7 @@ Transport/transportes; look up - olha/olhem para cima; verb/verbo: there is(1)-t
 
 ***   
 
-Read more books... / Lê mais livros
+Read more books... / Lê mais livros     
 [![wbdir](https://1blockatatime.github.io/English/images2/wbdir.PNG){:height="70px"}](https://www.wilbooks.com/free-online-books-guided-reading-level)   
 A: Level 0/1    
 B: Level 1   
