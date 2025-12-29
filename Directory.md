@@ -4,7 +4,9 @@ Online English reading directory for English and English as an additional langua
 ##### [Scholastic Sight Word Readers](https://1blockatatime.github.io/English/schol_swr)  
 ##### [United for Learning](https://1blockatatime.github.io/English/ufl_readers)
 ##### [SPELDSA](https://1blockatatime.github.io/English/speldsa)  
+#### [Wilbooks](https://1blockatatime.github.io/English/wilbooks)  
 ##### [Oxford Dolphin Readers](https://1blockatatime.github.io/English/oxf_dolph)  
+#### [Macmillan Education Readers](https://1blockatatime.github.io/English/mac_readers)  
 
 #### Language for Maths (linguagem de matemática)
 ##### [Millie the Mathematician early reader books](https://1blockatatime.github.io/English/maths) 
